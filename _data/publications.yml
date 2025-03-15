@@ -34,11 +34,11 @@ main:
     authors: <strong>Xuechen Li</strong>, Xiuhua Li*, Muqing Zhang, Qinghan Dong, Guiying Zhang, Zeping Zhang, Peng Wei
     conference_short: COMPAG
     conference: Computers and Electronics in Agriculture, 2023.
-    pdf: 
+    pdf: https://doi.org/10.1016/j.compag.2024.108762
     code: 
-    page: https://doi.org/10.1016/j.compag.2024.108762
+    page: 
     bibtex: 
-    image: ./assets/img/sugarcanegan.png
+    image: ./assets/img/sugarcanegan.jpg
     notes: 
  
   - title:  "SLViT: Shuffle-convolution-based lightweight Vision transformer for effective diagnosis of sugarcane leaf diseases"
