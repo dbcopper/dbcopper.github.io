@@ -31,9 +31,14 @@ github_username:  jekyll
 
 # Build settings
 # theme: minima
+# plugins:
+#   - jekyll-feed
+# remote_theme: yaoyao-liu/minimal-light
 plugins:
-  - jekyll-feed
-remote_theme: yaoyao-liu/minimal-light
+  - jekyll-remote-theme
+
+remote_theme: "yaoyao-liu/minimal-light"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -1,6 +1,6 @@
 main:
 
-    - title: Extraction method of physical phenotypic parameters of banana plant based on 3D point cloud
+  - title: Extraction method of physical phenotypic parameters of banana plant based on 3D point cloud
     authors: <strong>Xuechen Li</strong>,  Lang Qiao, Ce Yang* (*Corresponding authors), Vera Krischik
     conference_short: 
     conference: Plant Phenomics, 2025.
@@ -10,7 +10,7 @@ main:
     image: ./assets/img/banananet.png
     notes: With Editor
     
-    - title: Dynamic Multimodal Few-Shot Pest Recognition Across Growth Stages with Prior Knowledge
+  - title: Dynamic Multimodal Few-Shot Pest Recognition Across Growth Stages with Prior Knowledge
     authors: <strong>Xuechen Li</strong>,  Lang Qiao, Ce Yang*, Vera Krischik
     conference_short: 
     conference: Expert Systems with Applications, 2025.
@@ -20,7 +20,7 @@ main:
     image: ./assets/img/fewshot1.png
     notes: With Editor
     
-    - title: Winter damage diagnostic modeling based on synthetic vegetation indices from UAV-based multispectral imaging
+  - title: Winter damage diagnostic modeling based on synthetic vegetation indices from UAV-based multispectral imaging
     authors: <strong>Xuechen Li</strong>, Alireza Sanaeifar, Nicholas Padilla, Cole Stover, Alec Kowalewski, Eric Watkins, Bryan Runck, Lang Qiao, Ce Yang* 
     conference_short: 
     conference: Computers and Electronics in Agriculture, 2025.
@@ -30,7 +30,7 @@ main:
     image: ./assets/img/winterturf.png
     notes: Under Review
 
-   - title: "SugarcaneGAN: A novel dataset generating approach for sugarcane leaf diseases based on lightweight hybrid CNN-Transformer network"
+  - title: "SugarcaneGAN: A novel dataset generating approach for sugarcane leaf diseases based on lightweight hybrid CNN-Transformer network"
     authors: <strong>Xuechen Li</strong>, Xiuhua Li*, Muqing Zhang, Qinghan Dong, Guiying Zhang, Zeping Zhang, Peng Wei
     conference_short: COMPAG
     conference: Computers and Electronics in Agriculture, 2023.
