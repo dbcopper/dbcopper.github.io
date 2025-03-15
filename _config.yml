@@ -18,16 +18,34 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+# Basic Information 
+title: Xuechen Li
+position: Ph.D. Student
+affiliation: University of Minnesota, Twin Cities
+email: li003487@umn.edu
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: Xuechen Li, University of Minnesota, Twin Cities, Ph.D. Student
+description: Xuechen Li's Personal Website
+canonical: https://dbcopper.github.io/
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=sN3SeDoAAAAJ&hl=en
+cv_link: assets/files/Li_Xuechen_CV.pdf
+github_link: https://github.com/dbcopper
+# title: Your awesome title
+# email: your-email@example.com
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
 # theme: minima
@@ -39,6 +57,9 @@ plugins:
 
 remote_theme: "yaoyao-liu/minimal-light"
 
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -47,14 +68,14 @@ remote_theme: "yaoyao-liu/minimal-light"
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
