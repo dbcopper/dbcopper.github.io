@@ -57,7 +57,7 @@ plugins:
 
 remote_theme: "yaoyao-liu/minimal-light"
 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/1.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 # Exclude from processing.
@@ -67,7 +67,8 @@ favicon_dark: ./assets/img/favicon-dark.png
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-#
+auto_dark_mode: true
+
 exclude:
   - .sass-cache/
   - .jekyll-cache/
