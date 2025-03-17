@@ -19,12 +19,12 @@ I am a Ph.D. student at the University of Minnesota Twin Cities. My research foc
 
 ## News
 
-- **[2025/02]**
-- **[2025/01]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[2024/12]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[2025/1]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[2025/2]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[4/2022]** I have delivered a poster presentation presentation on the research of “Winter Damage Detection on Golf Courses through Drone-Based Multispectral lmaging" at *A*[*SABE North Central Regional Section Meeting*](https://www.sdstate.edu/agricultural-biosystems-engineering/2024-asabe-north-central-regional-section-meeting).
+- **[02/2025]**
+- **[01/2025]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+- **[12/2025]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[01/2025]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+- **[02/2025]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[04/2022]** I have delivered a poster presentation presentation on the research of “Winter Damage Detection on Golf Courses through Drone-Based Multispectral lmaging" at *A*[*SABE North Central Regional Section Meeting*](https://www.sdstate.edu/agricultural-biosystems-engineering/2024-asabe-north-central-regional-section-meeting).
 - **[06/2023]** Collaboration with [Prof. Xiaoli Li](https://www.researchgate.net/profile/Xiaoli-Li-27) of Zhejiang University in the field of tea leaf disease detection.
 - **[04/2023]** Successfully applied for the Innovation Project of Guangxi Graduate Education as the project leader.
 - **[10/2022]** One patent has been certified.
