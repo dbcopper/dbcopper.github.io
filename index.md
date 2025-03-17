@@ -3,7 +3,7 @@ layout: homepage
 ---
 ## About Me
 
-I am a Ph.D. student at the University of Minnesota Twin Cities. My research focuses on computer vision, multimodal learning, and few-shot learning, with applications in agriculture. I explore the use of large language models and agent systems for crop disease diagnosis, crop phenotyping, and intelligent decision support. My work aims to integrate advanced AI techniques with agricultural data to enhance precision farming and sustainable crop management.
+I am a Ph.D. student at the University of Minnesota Twin Cities, advised by [Prof. Ce Yang](https://bbe.umn.edu/people/ce-yang). My research focuses on computer vision, multimodal learning, and few-shot learning, with applications in agriculture. I explore the use of large language models and agent systems for crop disease diagnosis, crop phenotyping, and intelligent decision support. My work aims to integrate advanced AI techniques with agricultural data to enhance precision farming and sustainable crop management.
 
 ## Education
 
@@ -19,12 +19,9 @@ I am a Ph.D. student at the University of Minnesota Twin Cities. My research foc
 
 ## News
 
-- **[02/2025]**
-- **[01/2025]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[12/2025]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[01/2025]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[02/2025]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[04/2022]** I have delivered a poster presentation presentation on the research of “Winter Damage Detection on Golf Courses through Drone-Based Multispectral lmaging" at *A*[*SABE North Central Regional Section Meeting*](https://www.sdstate.edu/agricultural-biosystems-engineering/2024-asabe-north-central-regional-section-meeting).
+- **[02/2025]** I have delivered a talk on our Chatbug: an entomology agent at
+- **[01/2025]** I have presented our new progess on winter damage detection at
+- **[04/2024]** I have delivered a poster presentation on our research at detecting winter damage on Golf Courses [*ASABE North Central Regional Section Meeting*](https://www.sdstate.edu/agricultural-biosystems-engineering/2024-asabe-north-central-regional-section-meeting).
 - **[06/2023]** Collaboration with [Prof. Xiaoli Li](https://www.researchgate.net/profile/Xiaoli-Li-27) of Zhejiang University in the field of tea leaf disease detection.
 - **[04/2023]** Successfully applied for the Innovation Project of Guangxi Graduate Education as the project leader.
 - **[10/2022]** One patent has been certified.
