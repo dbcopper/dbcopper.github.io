@@ -1,6 +1,6 @@
 main:
 
-  - title: ChatBug: A Knowledge graph-Driven Entomology Agent
+  - title: "ChatBug: A Knowledge graph-Driven Entomology Agent"
     authors: <strong>Xuechen Li</strong>, Lang Qiao, Ce Yang*
     conference_short: COMPAG
     conference: Computers and Electronics in Agriculture, 2025.
