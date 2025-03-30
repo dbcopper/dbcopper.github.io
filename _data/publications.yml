@@ -7,7 +7,7 @@ main:
     pdf: 
     code: 
     bibtex: 
-    image: ./assets/img/banananet.png
+    image: ./assets/img/chatbug.png
     notes: With Editor
 
   - title: Extraction method of physical phenotypic parameters of banana plant based on 3D point cloud
