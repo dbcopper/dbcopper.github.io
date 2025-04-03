@@ -19,8 +19,8 @@ I am a Ph.D. student at the University of Minnesota Twin Cities, advised by [Pro
 
 ## News
 
-- **[02/2025]** I have delivered a talk on our Chatbug: an entomology agent at
-- **[01/2025]** I have presented our new progess on winter damage detection at
+- **[02/2025]** I have delivered a talk on our Chatbug: an entomology agent at [*North American Plant Phenotyping Network*](https://www.plantphenotyping.org/).
+- **[02/2025]** I have presented our new progess on winter damage detection at *[UMN NSRI Day](https://research.umn.edu/industry-partnership/strategic-research-partnerships/national-security-research-institute)*
 - **[04/2024]** I have delivered a poster presentation on our research at detecting winter damage on Golf Courses [*ASABE North Central Regional Section Meeting*](https://www.sdstate.edu/agricultural-biosystems-engineering/2024-asabe-north-central-regional-section-meeting).
 - **[06/2023]** Collaboration with [Prof. Xiaoli Li](https://www.researchgate.net/profile/Xiaoli-Li-27) of Zhejiang University in the field of tea leaf disease detection.
 - **[04/2023]** Successfully applied for the Innovation Project of Guangxi Graduate Education as the project leader.
