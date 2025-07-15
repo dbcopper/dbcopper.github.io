@@ -29,7 +29,12 @@ approaches</li>
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.agriculture-vision.com/agriculture-vision-2024/call-for-papers-2024"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (CVPRW) 2024-2025</autocolor></a></li>
 <li><a href="https://2025.ijcnn.org/"><autocolor>International Joint Conference On Neural Networks (IJCNN) 2025</autocolor></a></li>
+  <li><a href="https://2025.acmmm.org/"><autocolor>ACM International Conference on Multimedia (ACM MM) 2025</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/expert-systems-with-applications"><autocolor>Expert Systems with Applications</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/biosystems-engineering"><autocolor>Biosystems Engineering</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/crop-protection"><autocolor>Crop Protection</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence"><autocolor>Engineering Applications of Artificial Intelligence</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/european-journal-of-agronomy"><autocolor>European Journal of Agronomy</autocolor></a></li>
 
 </ul>
 
