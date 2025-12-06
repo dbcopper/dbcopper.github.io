@@ -10,7 +10,7 @@ main:
     image: ./assets/img/banananet.png
     notes: With Editor
     
-  - title: Pest-MoE: A Mixture-of-Experts Framework for Stage-Aware Multimodal Few-Shot Pest Recognition
+  - title: "Pest-MoE: A Mixture-of-Experts Framework for Stage-Aware Multimodal Few-Shot Pest Recognition"
     authors: <strong>Xuechen Li</strong>, Lang Qiao, Vera Krischik, Ce Yang*
     conference_short: AIIA
     conference: Artificial Intelligence in Agriculture, 2025.
