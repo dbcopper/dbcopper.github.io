@@ -43,7 +43,7 @@ main:
   - title: "SugarcaneGAN: A novel dataset generating approach for sugarcane leaf diseases based on lightweight hybrid CNN-Transformer network"
     authors: <strong>Xuechen Li</strong>, Xiuhua Li*, Muqing Zhang, Qinghan Dong, Guiying Zhang, Zeping Zhang, Peng Wei
     conference_short: COMPAG
-    conference: Computers and Electronics in Agriculture, 2023.
+    conference: Computers and Electronics in Agriculture, 2024.
     pdf: https://doi.org/10.1016/j.compag.2024.108762
     code: 
     page: 
