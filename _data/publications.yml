@@ -1,4 +1,4 @@
-main:
+first_author:
 
   - title: Extraction method of physical phenotypic parameters of banana plant based on 3D point cloud
     authors: <strong>Xuechen Li</strong>, Wei Peng, Xiuhua Li*
@@ -64,13 +64,15 @@ main:
 
 
 
-  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
+# Add coauthor publication entries using the same structure as below.
+coauthor: []
+  - title:  "SLViT: Shuffle-convolution-based lightweight Vision transformer for effective diagnosis of sugarcane leaf diseases"
+    authors: <strong>Xuechen Li</strong>, Xiuhua Li*, Shimin Zhang, Guiying Zhang, Muqing Zhang, Heyang Shang
+    conference_short: J.JKSUCI
+    conference: Journal of King Saud University - Computer and Information Sciences, 2022.
+    pdf: https://doi.org/10.1016/j.jksuci.2022.09.013
+    code: 
+    page: 
+    bibtex: 
+    image: ./assets/img/slvit.png
+    notes: 
