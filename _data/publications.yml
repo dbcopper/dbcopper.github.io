@@ -1,15 +1,5 @@
 main:
 
-  - title: "ChatBug: A Knowledge graph-Driven Entomology Agent"
-    authors: <strong>Xuechen Li</strong>, Lang Qiao, Ce Yang*
-    conference_short: COMPAG
-    conference: Computers and Electronics in Agriculture, 2025.
-    pdf: 
-    code: 
-    bibtex: 
-    image: ./assets/img/chatbug.png
-    notes: With Editor
-
   - title: Extraction method of physical phenotypic parameters of banana plant based on 3D point cloud
     authors: <strong>Xuechen Li</strong>, Wei Peng, Xiuhua Li*
     conference_short: Plantphenomics
@@ -20,15 +10,15 @@ main:
     image: ./assets/img/banananet.png
     notes: With Editor
     
-  - title: Dynamic Multimodal Few-Shot Pest Recognition Across Growth Stages with Prior Knowledge
+  - title: Pest-MoE: A Mixture-of-Experts Framework for Stage-Aware Multimodal Few-Shot Pest Recognition
     authors: <strong>Xuechen Li</strong>, Lang Qiao, Vera Krischik, Ce Yang*
-    conference_short: ESWA
-    conference: Expert Systems with Applications, 2025.
+    conference_short: AIIA
+    conference: Artificial Intelligence in Agriculture, 2025.
     pdf: 
     code: 
     bibtex: 
     image: ./assets/img/fewshot1.png
-    notes: With Editor
+    notes: Under Review
     
   - title: Winter damage diagnostic modeling based on synthetic vegetation indices from UAV-based multispectral imaging
     authors: <strong>Xuechen Li</strong>, Alireza Sanaeifar, Nicholas Padilla, Cole Stover, Alec Kowalewski, Eric Watkins, Bryan Runck, Lang Qiao, Ce Yang* 
@@ -39,6 +29,16 @@ main:
     bibtex: 
     image: ./assets/img/winterturf.png
     notes: Under Review
+
+  - title: AgriFusion: Multiscale RGB–NIR Fusion for Semantic Segmentation in Airborne Agricultural Imagery
+    authors: <strong>Xuechen Li</strong>, Lang Qiao, Ce Yang* 
+    conference_short: AgriEngineering
+    conference: AgriEngineering, 2025.
+    pdf: https://doi.org/10.3390/agriengineering7110388
+    code: 
+    bibtex: 
+    image: ./assets/img/mdpi.png
+    notes: 
 
   - title: "SugarcaneGAN: A novel dataset generating approach for sugarcane leaf diseases based on lightweight hybrid CNN-Transformer network"
     authors: <strong>Xuechen Li</strong>, Xiuhua Li*, Muqing Zhang, Qinghan Dong, Guiying Zhang, Zeping Zhang, Peng Wei

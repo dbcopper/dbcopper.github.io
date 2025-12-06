@@ -21,7 +21,6 @@ approaches</li>
   <li>Achieved significantly improved realism and structural alignment compared to baseline generation methods</li>
 </ul>
 
-
 ## Services
 
 <h4 style="margin:0 10px 0;">Conference/Journal Reviewers</h4>
@@ -34,7 +33,11 @@ approaches</li>
   <li><a href="https://www.sciencedirect.com/journal/biosystems-engineering"><autocolor>Biosystems Engineering</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/crop-protection"><autocolor>Crop Protection</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence"><autocolor>Engineering Applications of Artificial Intelligence</autocolor></a></li>
-  <li><a href="https://www.sciencedirect.com/journal/european-journal-of-agronomy"><autocolor>European Journal of Agronomy</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/computer-vision-and-image-understanding"><autocolor>Computer vision and image understanding</autocolor></a></li>
+ <li><a href="https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture"><autocolor>Computers and electronics in agriculture</autocolor></a></li>
+ <li><a href="https://www.sciencedirect.com/journal/european-journal-of-agronomy"><autocolor>Engineering applications of artificial intelligence</autocolor></a></li>
+ <li><a href="https://www.frontiersin.org/journals/plant-science"><autocolor>Frontiers in Plant Science</autocolor></a></li>
+ <li><a href="https://www.frontiersin.org/journals/remote-sensing"><autocolor>Frontiers In Remote Sensing</autocolor></a></li>
 
 </ul>
 
