@@ -30,7 +30,7 @@ main:
     image: ./assets/img/winterturf.png
     notes: Under Review
 
-  - title: AgriFusion: Multiscale RGB–NIR Fusion for Semantic Segmentation in Airborne Agricultural Imagery
+  - title: "AgriFusion: Multiscale RGB–NIR Fusion for Semantic Segmentation in Airborne Agricultural Imagery"
     authors: <strong>Xuechen Li</strong>, Lang Qiao, Ce Yang* 
     conference_short: AgriEngineering
     conference: AgriEngineering, 2025.
