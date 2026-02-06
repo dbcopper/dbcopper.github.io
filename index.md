@@ -22,6 +22,8 @@ I am a Ph.D. candidate at the University of Minnesota Twin Cities, advised by [P
 
 {% include_relative _includes/projects.md %}
 
+{% include_relative _includes/internship.md %}
+
 <!--
 ## News
 

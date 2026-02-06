@@ -6,6 +6,14 @@
 {% for item in projects %}
 <li>
 <div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
+    {% if item.image %}
+    <img src="{{ item.image }}" class="teaser img-fluid z-depth-1" style="width=100; height:40%">
+    {% if item.badge %}
+    <abbr class="badge">{{ item.badge }}</abbr>
+    {% endif %}
+    {% endif %}
+  </div>
   <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;">
     <div class="title"><a href="{{ item.url }}">{{ item.title }}</a></div>
     <div class="periodical"><em>{{ item.description }}</em></div>
