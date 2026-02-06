@@ -69,7 +69,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-auto_dark_mode: true
+auto_dark_mode: false
 
 exclude:
   - .sass-cache/
