@@ -1,10 +1,9 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">First/Corresponding Author Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">First Author Publications</h2>
 
 <div class="publications">
 {% assign pub_sections = site.data.publications %}
 
 {% if pub_sections.first_author %}
-<p style="margin-top: 0; font-size: 0.9rem;">(* for corresponding author, # for equal contribution)</p>
 <ol class="bibliography">
 {% for link in pub_sections.first_author %}
 <li>
