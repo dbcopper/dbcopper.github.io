@@ -3,6 +3,7 @@ first_author:
   - title: "Pest-MoE: A Mixture-of-Experts Framework for Stage-Aware Multimodal Few-Shot Pest Recognition"
     authors: <strong>Xuechen Li</strong>, Lang Qiao, Vera Krischik, Ce Yang
     conference_short: AIIA
+    impact_factor: "IF 16.1"
     conference: Artificial Intelligence in Agriculture, 2026.
     pdf: 
     code: 
@@ -13,6 +14,7 @@ first_author:
   - title: Winter damage diagnostic modeling based on synthetic vegetation indices from UAV-based multispectral imaging
     authors: <strong>Xuechen Li</strong>, Alireza Sanaeifar, Nicholas Padilla, Cole Stover, Alec Kowalewski, Eric Watkins, Bryan Runck, Lang Qiao, Ce Yang
     conference_short: COMPAG
+    impact_factor: "IF 10.4"
     conference: Computers and Electronics in Agriculture, 2025.
     pdf: https://doi.org/10.1016/j.compag.2025.111334
     code: 
@@ -23,6 +25,7 @@ first_author:
   - title: "AgriFusion: Multiscale RGB–NIR Fusion for Semantic Segmentation in Airborne Agricultural Imagery"
     authors: <strong>Xuechen Li</strong>, Lang Qiao, Ce Yang
     conference_short: AgriEngineering
+    impact_factor: "IF 3.1"
     conference: AgriEngineering, 2025.
     pdf: https://doi.org/10.3390/agriengineering7110388
     code: 
@@ -33,6 +36,7 @@ first_author:
   - title: "SugarcaneGAN: A novel dataset generating approach for sugarcane leaf diseases based on lightweight hybrid CNN-Transformer network"
     authors: <strong>Xuechen Li</strong>, Xiuhua Li, Muqing Zhang, Qinghan Dong, Guiying Zhang, Zeping Zhang, Peng Wei
     conference_short: COMPAG
+    impact_factor: "IF 10.4"
     conference: Computers and Electronics in Agriculture, 2024.
     pdf: https://doi.org/10.1016/j.compag.2024.108762
     code: 
@@ -44,6 +48,7 @@ first_author:
   - title:  "SLViT: Shuffle-convolution-based lightweight Vision transformer for effective diagnosis of sugarcane leaf diseases"
     authors: <strong>Xuechen Li</strong>, Xiuhua Li, Shimin Zhang, Guiying Zhang, Muqing Zhang, Heyang Shang
     conference_short: J.JKSUCI
+    impact_factor: "IF 6.4"
     conference: Journal of King Saud University - Computer and Information Sciences, 2022.
     pdf: https://doi.org/10.1016/j.jksuci.2022.09.013
     code: 
