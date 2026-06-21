@@ -15,7 +15,7 @@
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
     {% if link.impact_factor %}
-    <span class="impact-factor-badge" style="display: inline-block; background-color: #ffffff; color: #000000; border: 1px solid #000000; border-radius: 4px; font-size: 0.75rem; font-weight: 700; line-height: 1.2; padding: 0.12rem 0.45rem; position: absolute; right: 10px; bottom: 12px; box-shadow: 1px 1px 3px #888;">{{ link.impact_factor }}</span>
+    <span class="impact-factor-badge" style="display: inline-block; background-color: rgba(0, 0, 0, 0.68); color: #ffffff; border: 1px solid rgba(255, 255, 255, 0.72); border-radius: 4px; font-size: 0.75rem; font-weight: 700; line-height: 1.2; padding: 0.12rem 0.45rem; position: absolute; right: 10px; bottom: 12px; box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.35);">{{ link.impact_factor }}</span>
     {% endif %}
     {% endif %}
   </div>
