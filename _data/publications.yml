@@ -3,7 +3,8 @@ first_author:
   - title: "IPM-Bench: A Multi-task Benchmark for Evaluating Large Language Models in Integrated Pest Management"
     authors: <strong><a href="https://openreview.net/profile?id=~xuechen_li4">Xuechen Li</a></strong>, <a href="https://openreview.net/profile?id=~Huixue_Zhou1">Huixue Zhou</a>, <a href="https://openreview.net/profile?id=~Junxiong_Zhou1">Junxiong Zhou</a>, <a href="https://openreview.net/profile?id=~Lang_Qiao1">Lang Qiao</a>, <a href="https://openreview.net/profile?id=~Ce_Yang2">Ce Yang</a>
     conference_short: EMNLP
-    conference: EMNLP.
+    impact_factor: "Conference"
+    conference: EMNLP 2026.
     pdf: 
     code: 
     bibtex: 
