@@ -23,8 +23,9 @@ first_author:
     notes: Minor Revision
 
   - title: "K2B-MoPE: An Efficient Mixture of Phenotypic Experts Framework for Interpretable Kernel-to-Batch Fusarium Head Blight Severity Assessment in Wheat"
-    authors: <strong>Xuechen Li</strong><sup>1</sup>, Susan Reynolds<sup>2</sup>, Lang Qiao<sup>1</sup>, Junxiong Zhou<sup>1</sup>, Zezhong Tian<sup>3</sup>, James Anderson<sup>2</sup>, Shahryar Kianian<sup>4</sup>, Ce Yang<sup>1</sup>*
-    conference_short: Biosystems Engineering
+    authors: <strong>Xuechen Li</strong>, Susan Reynolds, Lang Qiao, Junxiong Zhou, Zezhong Tian, James Anderson, Shahryar Kianian, Ce Yang*
+    conference_short: Biosyst. Eng.
+    impact_factor: "IF 7.8"
     conference: Biosystems Engineering.
     pdf: 
     code: 
