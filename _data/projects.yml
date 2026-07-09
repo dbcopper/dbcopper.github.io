@@ -1,7 +1,7 @@
 - title: "Pest-MoE: A Mixture-of-Experts Framework for Stage-Aware Multimodal Few-Shot Pest Recognition"
   url: "#"
   description: "Artificial Intelligence in Agriculture, 2026. Minor Revision."
-  image: ./assets/img/fewshot1.png
+  image: ./assets/img/Pest-MoE.png
   badge: AIIA
 
 - title: Winter damage diagnostic modeling based on synthetic vegetation indices from UAV-based multispectral imaging

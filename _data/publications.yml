@@ -8,8 +8,29 @@ first_author:
     pdf: 
     code: 
     bibtex: 
-    image: ./assets/img/fewshot1.png
+    image: ./assets/img/Pest-MoE.png
     notes: Minor Revision
+
+  - title: "SympCap: Parameter-Efficient Crop Disease Image Captioning with Symptom-Aware Domain Knowledge"
+    authors: <strong>Xuechen Li</strong>, Lang Qiao, Junxiong Zhou, Ce Yang
+    conference_short: COMPAG
+    impact_factor: "IF 10.3"
+    conference: Computers and Electronics in Agriculture.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/SympCap.png
+    notes: Minor Revision
+
+  - title: "K2B-MoPE: An Efficient Mixture of Phenotypic Experts Framework for Interpretable Kernel-to-Batch Fusarium Head Blight Severity Assessment in Wheat"
+    authors: <strong>Xuechen Li</strong><sup>1</sup>, Susan Reynolds<sup>2</sup>, Lang Qiao<sup>1</sup>, Junxiong Zhou<sup>1</sup>, Zezhong Tian<sup>3</sup>, James Anderson<sup>2</sup>, Shahryar Kianian<sup>4</sup>, Ce Yang<sup>1</sup>*
+    conference_short: Biosystems Engineering
+    conference: Biosystems Engineering.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/K2B-MoPE.png
+    notes: Under Review
     
   - title: Winter damage diagnostic modeling based on synthetic vegetation indices from UAV-based multispectral imaging
     authors: <strong>Xuechen Li</strong>, Alireza Sanaeifar, Nicholas Padilla, Cole Stover, Alec Kowalewski, Eric Watkins, Bryan Runck, Lang Qiao, Ce Yang
