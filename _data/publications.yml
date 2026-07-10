@@ -1,7 +1,7 @@
 first_author:
 
   - title: "IPM-Bench: A Multi-task Benchmark for Evaluating Large Language Models in Integrated Pest Management"
-    authors: <strong><a href="https://openreview.net/profile?id=~xuechen_li4">Xuechen Li</a></strong>, <a href="https://openreview.net/profile?id=~Huixue_Zhou1">Huixue Zhou</a>, <a href="https://openreview.net/profile?id=~Junxiong_Zhou1">Junxiong Zhou</a>, <a href="https://openreview.net/profile?id=~Lang_Qiao1">Lang Qiao</a>, <a href="https://openreview.net/profile?id=~Ce_Yang2">Ce Yang</a>
+    authors: <strong><a href="https://openreview.net/profile?id=~xuechen_li4">Xuechen Li</a></strong>, <a href="https://openreview.net/profile?id=~Huixue_Zhou1">Huixue Zhou</a>, <a href="https://openreview.net/profile?id=~Junxiong_Zhou1">Junxiong Zhou</a>, <a href="https://openreview.net/profile?id=~Lang_Qiao1">Lang Qiao</a>, <a href="https://openreview.net/profile?id=~Ce_Yang2">Ce Yang</a>*
     conference_short: EMNLP
     impact_factor: "Conference"
     conference: EMNLP 2026.
@@ -12,7 +12,7 @@ first_author:
     notes: Under Review
 
   - title: "Pest-MoE: A Mixture-of-Experts Framework for Stage-Aware Multimodal Few-Shot Pest Recognition"
-    authors: <strong>Xuechen Li</strong>, Lang Qiao, Vera Krischik, Ce Yang
+    authors: <strong>Xuechen Li</strong>, Lang Qiao, Vera Krischik, Ce Yang*
     conference_short: AIIA
     impact_factor: "IF 16.1"
     conference: Artificial Intelligence in Agriculture, 2026.
@@ -23,7 +23,7 @@ first_author:
     notes: Minor Revision
 
   - title: "SympCap: Parameter-Efficient Crop Disease Image Captioning with Symptom-Aware Domain Knowledge"
-    authors: <strong>Xuechen Li</strong>, Lang Qiao, Junxiong Zhou, Ce Yang
+    authors: <strong>Xuechen Li</strong>, Lang Qiao, Junxiong Zhou, Ce Yang*
     conference_short: COMPAG
     impact_factor: "IF 10.3"
     conference: Computers and Electronics in Agriculture.
@@ -45,7 +45,7 @@ first_author:
     notes: Under Review
     
   - title: Winter damage diagnostic modeling based on synthetic vegetation indices from UAV-based multispectral imaging
-    authors: <strong>Xuechen Li</strong>, Alireza Sanaeifar, Nicholas Padilla, Cole Stover, Alec Kowalewski, Eric Watkins, Bryan Runck, Lang Qiao, Ce Yang
+    authors: <strong>Xuechen Li</strong>, Alireza Sanaeifar, Nicholas Padilla, Cole Stover, Alec Kowalewski, Eric Watkins, Bryan Runck, Lang Qiao, Ce Yang*
     conference_short: COMPAG
     impact_factor: "IF 10.3"
     conference: Computers and Electronics in Agriculture, 2025.
@@ -56,7 +56,7 @@ first_author:
     notes: 
 
   - title: "AgriFusion: Multiscale RGB–NIR Fusion for Semantic Segmentation in Airborne Agricultural Imagery"
-    authors: <strong>Xuechen Li</strong>, Lang Qiao, Ce Yang
+    authors: <strong>Xuechen Li</strong>, Lang Qiao, Ce Yang*
     conference_short: AgriEngineering
     impact_factor: "IF 3.1"
     conference: AgriEngineering, 2025.
@@ -67,7 +67,7 @@ first_author:
     notes: 
 
   - title: "SugarcaneGAN: A novel dataset generating approach for sugarcane leaf diseases based on lightweight hybrid CNN-Transformer network"
-    authors: <strong>Xuechen Li</strong>, Xiuhua Li, Muqing Zhang, Qinghan Dong, Guiying Zhang, Zeping Zhang, Peng Wei
+    authors: <strong>Xuechen Li</strong>, Xiuhua Li*, Muqing Zhang, Qinghan Dong, Guiying Zhang, Zeping Zhang, Peng Wei
     conference_short: COMPAG
     impact_factor: "IF 10.3"
     conference: Computers and Electronics in Agriculture, 2024.
@@ -79,7 +79,7 @@ first_author:
     notes: 
  
   - title:  "SLViT: Shuffle-convolution-based lightweight Vision transformer for effective diagnosis of sugarcane leaf diseases"
-    authors: <strong>Xuechen Li</strong>, Xiuhua Li, Shimin Zhang, Guiying Zhang, Muqing Zhang, Heyang Shang
+    authors: <strong>Xuechen Li</strong>, Xiuhua Li*, Shimin Zhang, Guiying Zhang, Muqing Zhang, Heyang Shang
     conference_short: J.JKSUCI
     impact_factor: "IF 6.4"
     conference: Journal of King Saud University - Computer and Information Sciences, 2022.
