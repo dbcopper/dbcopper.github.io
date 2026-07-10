@@ -15,7 +15,7 @@
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
     {% if link.impact_factor %}
-    <abbr class="badge impact-factor-badge">{{ link.impact_factor }}</abbr>
+    <span class="badge impact-factor-badge">{{ link.impact_factor }}</span>
     {% endif %}
     {% endif %}
   </div>
