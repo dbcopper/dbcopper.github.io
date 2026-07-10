@@ -40,9 +40,11 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .abbr { height: 8rem; margin-bottom: 0.5rem; }
 
-.publications ol.bibliography li .abbr abbr { display: inline-block; background-color: var(--global-theme-color); padding-left: 1rem; padding-right: 1rem; position: absolute; top: 8px; left: 16px; }
+.publications ol.bibliography li .abbr .pub-image-wrap { display: inline-block; line-height: 0; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; max-width: 100%; position: relative; vertical-align: top; }
 
-.publications ol.bibliography li .abbr .impact-factor-badge { display: inline-block; background-color: rgba(0, 0, 0, 0.68); color: #ffffff; border: 1px solid rgba(255, 255, 255, 0.72); border-radius: 4px; font-size: 0.75rem; font-weight: 700; line-height: 1.2; padding: 0.12rem 0.45rem; position: absolute; top: auto; left: auto; right: 10px; bottom: 6px; box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.35); }
+.publications ol.bibliography li .abbr .pub-venue-badge { display: inline-block; background-color: var(--global-theme-color); padding-left: 1rem; padding-right: 1rem; position: absolute; top: 3px; left: -4px; }
+
+.publications ol.bibliography li .abbr .impact-factor-badge { display: inline-block; background-color: rgba(0, 0, 0, 0.68); color: #ffffff; border: 1px solid rgba(255, 255, 255, 0.72); border-radius: 4px; font-size: 0.75rem; font-weight: 700; line-height: 1.2; padding: 0.12rem 0.45rem; position: absolute; top: auto; left: auto; right: 6px; bottom: 8px; box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.35); }
 
 .publications ol.bibliography li .abbr abbr a { color: white; }
 
@@ -74,4 +76,4 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
-.publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+.publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; display: block; height: 123px; max-width: 100%; width: 270px; margin: 0; object-fit: cover; }

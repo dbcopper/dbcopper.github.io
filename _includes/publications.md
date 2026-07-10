@@ -10,13 +10,15 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %}
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1">
-    {% if link.conference_short %}
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
-    {% if link.impact_factor %}
-    <span class="badge impact-factor-badge">{{ link.impact_factor }}</span>
-    {% endif %}
+    <div class="pub-image-wrap">
+      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1">
+      {% if link.conference_short %}
+      <abbr class="badge pub-venue-badge">{{ link.conference_short }}</abbr>
+      {% endif %}
+      {% if link.impact_factor %}
+      <span class="badge impact-factor-badge">{{ link.impact_factor }}</span>
+      {% endif %}
+    </div>
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
