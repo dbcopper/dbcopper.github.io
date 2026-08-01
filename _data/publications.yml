@@ -12,7 +12,7 @@ first_author:
     notes: Submitted
 
   - title: "PhenoStitch: Training-Free Panoptic Crop Mapping from Satellite Image Time Series"
-    authors: <strong>Xuechen Li*</strong>
+    authors: <strong>Xuechen Li</strong>, Rui-Feng Wang, Xueliang Li, Chonghao Qiu, Junxiong Zhou, Lang Qiao
     conference_short: AAAI
     impact_factor: "Conference"
     conference: AAAI, 2027.
