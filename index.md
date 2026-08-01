@@ -3,7 +3,7 @@ layout: homepage
 ---
 ## About Me
 
-I am a Ph.D. candidate at the University of Minnesota Twin Cities, advised by [Prof. Ce Yang](https://bbe.umn.edu/people/ce-yang). I hold a Master's degree in Computer Science and a Bachelor's degree in Mechanical Engineering. My research focuses on computer vision and vision-language models, with applications in agriculture. I explore the use of large language models and agent systems for crop disease diagnosis, crop phenotyping, and intelligent decision support. My work aims to integrate advanced AI techniques with agricultural data to enhance precision farming and sustainable crop management.
+I am a Ph.D. candidate at the University of Minnesota, Twin Cities, advised by [Prof. Ce Yang](https://bbe.umn.edu/people/ce-yang). I hold a Master's degree in Computer Science and a Bachelor's degree in Mechanical Engineering. My research focuses on computer vision and vision-language models, with applications in agriculture. I explore the use of large language models and agent systems for crop disease diagnosis, crop phenotyping, and intelligent decision support. My work aims to integrate advanced AI techniques with agricultural data to enhance precision farming and sustainable crop management.
 
 <!--
 ## Education
