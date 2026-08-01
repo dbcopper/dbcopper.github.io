@@ -1,5 +1,27 @@
 first_author:
 
+  - title: "GeoArbiter: Verifiability-Guided Grounding for Remote-Sensing Multimodal LLMs"
+    authors: <strong>Xuechen Li</strong>
+    conference_short: COLING
+    impact_factor: "Conference"
+    conference: COLING, 2026.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/GeoArbiter.png
+    notes: Submitted
+
+  - title: "PhenoStitch: Training-Free Panoptic Crop Mapping from Satellite Image Time Series"
+    authors: <strong>Xuechen Li</strong>
+    conference_short: AAAI
+    impact_factor: "Conference"
+    conference: AAAI, 2026.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/PhenoStitch.png
+    notes: Submitted
+
   - title: "IPM-Bench: A Multi-task Benchmark for Evaluating Large Language Models in Integrated Pest Management"
     authors: <strong>Xuechen Li</strong>, Huixue Zhou, Junxiong Zhou, Lang Qiao, Ce Yang*
     conference_short: EMNLP
