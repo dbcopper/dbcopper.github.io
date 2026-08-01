@@ -51,6 +51,15 @@
         text-align: center;
       }
 
+      .site-stats a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      .site-stats a:hover {
+        text-decoration: underline;
+      }
+
       .site-stats span + span::before {
         content: " · ";
       }
@@ -80,8 +89,10 @@
         {% endif %}
 
         <div class="site-stats" aria-label="Website visit statistics">
-          <span id="busuanzi_container_site_uv">Visitors <span id="busuanzi_value_site_uv">--</span></span>
-          <span id="busuanzi_container_site_pv">Views <span id="busuanzi_value_site_pv">--</span></span>
+          <a href="https://dbcopper.goatcounter.com" target="_blank" rel="noopener">
+            <span id="busuanzi_container_site_uv">Visitors <span id="busuanzi_value_site_uv">--</span></span>
+            <span id="busuanzi_container_site_pv">Views <span id="busuanzi_value_site_pv">--</span></span>
+          </a>
         </div>
 
         <br>
