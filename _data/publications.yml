@@ -5,7 +5,7 @@ first_author:
     conference_short: COLING
     impact_factor: "Conference"
     conference: COLING, 2027.
-    pdf: 
+    pdf: ./projects/geoarbiter.html
     code: 
     bibtex: 
     image: ./assets/img/GeoArbiter.png
