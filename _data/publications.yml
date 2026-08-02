@@ -28,7 +28,7 @@ first_author:
     conference_short: KDD
     impact_factor: "Conference"
     conference: KDD 2027 Datasets and Benchmarks, 2027.
-    pdf: 
+    pdf: ./projects/uav3dcrop.html
     code: 
     bibtex: 
     image: ./assets/img/UAV3DCrop.png
