@@ -18,6 +18,7 @@ first_author:
     conference: AAAI, 2027.
     pdf: 
     code: 
+    page: ./projects/phenostitch.html
     bibtex: 
     image: ./assets/img/PhenoStitch.png
     notes: Submitted
