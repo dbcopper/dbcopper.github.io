@@ -16,9 +16,9 @@ first_author:
     conference_short: AAAI
     impact_factor: "Conference"
     conference: AAAI, 2027.
-    pdf: 
+    pdf: ./projects/phenostitch.html
     code: 
-    page: ./projects/phenostitch.html
+    page: 
     bibtex: 
     image: ./assets/img/PhenoStitch.png
     notes: Submitted
