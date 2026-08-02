@@ -39,7 +39,7 @@ first_author:
     conference_short: EMNLP
     impact_factor: "Conference"
     conference: EMNLP, 2026.
-    pdf: 
+    pdf: ./projects/ipm-bench.html
     code: 
     bibtex: 
     image: ./assets/img/IPM-Bench.png
