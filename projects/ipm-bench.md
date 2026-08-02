@@ -14,7 +14,7 @@ description: "Project page for IPM-Bench, an extension-grounded benchmark for te
 <figure class="project-figure">
   <img src="{{ "/assets/img/IPM-Bench.png" | relative_url }}" alt="IPM-Bench benchmark construction pipeline">
   <figcaption>
-    <strong>Figure 3.</strong> Benchmark Construction Pipeline. We crawl extension repositories and plant health knowledge resources, convert and clean documents, deduplicate sentences, synthesize candidate questions, rank candidates using an LLM evaluator, and curate the final benchmark with IPM experts.
+    <strong>Figure.</strong> Benchmark Construction Pipeline. We crawl extension repositories and plant health knowledge resources, convert and clean documents, deduplicate sentences, synthesize candidate questions, rank candidates using an LLM evaluator, and curate the final benchmark with IPM experts.
   </figcaption>
 </figure>
 

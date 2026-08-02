@@ -14,7 +14,7 @@ description: "Project page for GeoArbiter, a verifiability-guided grounding pipe
 <figure class="project-figure">
   <img src="{{ "/assets/img/GeoArbiter.png" | relative_url }}" alt="GeoArbiter pipeline overview">
   <figcaption>
-    <strong>Figure 2.</strong> GeoArbiter pipeline. Image coordinates retrieve nearby OSM features, which may be stale or incomplete. A deterministic verifiability filter withholds physical-structure keys that the image can check (red) and textualizes image-unverifiable functional records (blue) into a knowledge block. The frozen MLLM answers from the image, question, and filtered knowledge.
+    <strong>Figure.</strong> GeoArbiter pipeline. Image coordinates retrieve nearby OSM features, which may be stale or incomplete. A deterministic verifiability filter withholds physical-structure keys that the image can check (red) and textualizes image-unverifiable functional records (blue) into a knowledge block. The frozen MLLM answers from the image, question, and filtered knowledge.
   </figcaption>
 </figure>
 

@@ -14,7 +14,7 @@ description: "Project page for PhenoStitch, a training-free panoptic crop-mappin
 <figure class="project-figure">
   <img src="{{ "/assets/img/PhenoStitch.png" | relative_url }}" alt="PhenoStitch pipeline overview">
   <figcaption>
-    <strong>Figure 2.</strong> The PhenoStitch pipeline is training-free. From a Sentinel-2 optical and Sentinel-1 SAR image time series (Input): a frozen SAM over-segments each patch into candidate regions (label-free over-segmentation); each region's NDVI and SAR (VV/VH) series are summarized by an analytic double-harmonic signature (harmonic phenological signature); adjacent regions with similar signatures are merged into parcels by a Potts graph energy (graph-energy merge into parcels); and each parcel is typed by nearest-prototype matching to k labels per class, the only labels used (few-shot prototype typing), yielding the panoptic crop map of parcel instances and crop types. No network is trained end-to-end.
+    <strong>Figure.</strong> The PhenoStitch pipeline is training-free. From a Sentinel-2 optical and Sentinel-1 SAR image time series (Input): a frozen SAM over-segments each patch into candidate regions (label-free over-segmentation); each region's NDVI and SAR (VV/VH) series are summarized by an analytic double-harmonic signature (harmonic phenological signature); adjacent regions with similar signatures are merged into parcels by a Potts graph energy (graph-energy merge into parcels); and each parcel is typed by nearest-prototype matching to k labels per class, the only labels used (few-shot prototype typing), yielding the panoptic crop map of parcel instances and crop types. No network is trained end-to-end.
   </figcaption>
 </figure>
 

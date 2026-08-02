@@ -14,7 +14,7 @@ description: "Project page for UAV3DCrop, a benchmark for 3D reconstruction in r
 <figure class="project-figure">
   <img src="{{ "/assets/img/UAV3DCrop.png" | relative_url }}" alt="UAV3DCrop benchmark overview">
   <figcaption>
-    <strong>Figure 1.</strong> Overview of UAV3DCrop and its two-track benchmark. Track A evaluates scene-optimized reconstruction from dense posed views against held-out RGB and photogrammetry-referenced depth; Track B evaluates zero-shot feed-forward geometry from unposed views.
+    <strong>Figure.</strong> Overview of UAV3DCrop and its two-track benchmark. Track A evaluates scene-optimized reconstruction from dense posed views against held-out RGB and photogrammetry-referenced depth; Track B evaluates zero-shot feed-forward geometry from unposed views.
   </figcaption>
 </figure>
 
