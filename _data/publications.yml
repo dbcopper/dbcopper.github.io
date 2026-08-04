@@ -35,7 +35,7 @@ first_author:
     notes: Submitted
 
   - title: "UAV3DCrop: Benchmarking 3D Reconstruction in Repeated Multi-Angle UAV Crop Surveys"
-    authors: Junxiong Zhou#, <strong>Xuechen Li#</strong>, Chonghao Qiu#, Lang Qiao, Xiaowei Jia, Qi Yang, Chishan Zhang, Leikun Yin, Nanshan You, Vipin Kumar, David Mulla, Ce Yang, Zhenong Jin, Licheng Liu
+    authors: Junxiong Zhou<sup>&dagger;</sup>, <strong>Xuechen Li<sup>&dagger;</sup></strong>, Chonghao Qiu<sup>&dagger;</sup>, Lang Qiao, Xiaowei Jia, Qi Yang, Chishan Zhang, Leikun Yin, Nanshan You, Vipin Kumar, David Mulla, Ce Yang, Zhenong Jin, Licheng Liu
     conference_short: KDD
     impact_factor: "Conference"
     conference: KDD 2027 Datasets and Benchmarks, 2027.
