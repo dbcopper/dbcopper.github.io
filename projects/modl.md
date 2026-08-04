@@ -14,7 +14,7 @@ description: "Project page for MODL, a mutually orthogonal domain-language compo
 <figure class="project-figure">
   <img src="{{ "/assets/img/MODL.png" | relative_url }}" alt="MODL cross-lingual remote-sensing MLLM pipeline overview">
   <figcaption>
-    <strong>Figure.</strong> Overview of MODL. Domain and language LoRAs are trained on disjoint streams and composed under a mutual orthogonality constraint to support cross-lingual remote-sensing MLLMs without paired multilingual-multimodal data.
+    <strong>Figure.</strong> The MODL recipe, shown on real training and test examples. Left: the two unpaired training streams as they actually appear to the model: an English RS instruction with its image (supervising D-LoRA only) and a text-only Spanish instruction with no image (supervising L-LoRA only); targets end with the supervised EOS. Center: both adapters are trained jointly on the frozen backbone; the mutual orthogonality penalty R&perp; (Eq. 1) keeps the two updates in disjoint subspaces at every layer and every step. Right: deployment simply adds both updates, W0 + &Delta;WD + &Delta;WL, and is queried on a combination never seen in training - a Vietnamese question about an RS image. Without the constraint (JOINT) the model names the correct class in English; with it (MODL) it answers correctly in Vietnamese. The footer notes the other two repairs: multilingual text retention (Belebele) and optimization stability (no constrained run diverged, vs. 3 of 7 for the naive recipe).
   </figcaption>
 </figure>
 
