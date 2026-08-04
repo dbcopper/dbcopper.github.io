@@ -1,5 +1,16 @@
 first_author:
 
+  - title: "One Domain, Many Tongues: Composing Domain and Language LoRAs for Cross-Lingual Remote-Sensing MLLMs without Paired Data"
+    authors: <strong>Xuechen Li*</strong>
+    conference_short: COLING
+    impact_factor: "Conference"
+    conference: COLING, 2027.
+    pdf: ./projects/modl.html
+    code: 
+    bibtex: 
+    image: ./assets/img/MODL.png
+    notes: Submitted
+
   - title: "GeoArbiter: Verifiability-Guided Grounding for Remote-Sensing Multimodal LLMs"
     authors: <strong>Xuechen Li*</strong>
     conference_short: COLING
