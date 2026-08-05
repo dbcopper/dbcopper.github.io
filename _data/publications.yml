@@ -65,7 +65,7 @@ first_author:
     code: 
     bibtex: 
     image: ./assets/img/Pest-MoE.png
-    notes: Minor Revision
+    notes: Proofing
 
   - title: "SympCap: Parameter-Efficient Crop Disease Image Captioning with Symptom-Aware Domain Knowledge"
     authors: <strong>Xuechen Li</strong>, Lang Qiao, Junxiong Zhou, Ce Yang*
