@@ -56,17 +56,6 @@ first_author:
     image: ./assets/img/IPM-Bench.png
     notes: Under Review
 
-  - title: "Pest-MoE: A Mixture-of-Experts Framework for Stage-Aware Multimodal Few-Shot Pest Recognition"
-    authors: <strong>Xuechen Li</strong>, Lang Qiao, Vera Krischik, Ce Yang*
-    conference_short: AIIA
-    impact_factor: "IF 16.1"
-    conference: Artificial Intelligence in Agriculture, 2026.
-    pdf: 
-    code: 
-    bibtex: 
-    image: ./assets/img/Pest-MoE.png
-    notes: Proofing
-
   - title: "SympCap: Parameter-Efficient Crop Disease Image Captioning with Symptom-Aware Domain Knowledge"
     authors: <strong>Xuechen Li</strong>, Lang Qiao, Junxiong Zhou, Ce Yang*
     conference_short: COMPAG
@@ -88,6 +77,17 @@ first_author:
     bibtex: 
     image: ./assets/img/K2B-MoPE.png
     notes: Under Review
+
+  - title: "Pest-MoE: A Mixture-of-Experts Framework for Stage-Aware Multimodal Few-Shot Pest Recognition"
+    authors: <strong>Xuechen Li</strong>, Lang Qiao, Vera Krischik, Ce Yang*
+    conference_short: AIIA
+    impact_factor: "IF 16.1"
+    conference: Artificial Intelligence in Agriculture, 2026.
+    pdf: https://www.sciencedirect.com/science/article/pii/S2589721726000838?via%3Dihub
+    code: 
+    bibtex: 
+    image: ./assets/img/Pest-MoE.png
+    notes: 
     
   - title: Winter damage diagnostic modeling based on synthetic vegetation indices from UAV-based multispectral imaging
     authors: <strong>Xuechen Li</strong>, Alireza Sanaeifar, Nicholas Padilla, Cole Stover, Alec Kowalewski, Eric Watkins, Bryan Runck, Lang Qiao, Ce Yang*
