@@ -4,8 +4,19 @@
 {% assign pub_sections = site.data.publications %}
 
 {% if pub_sections.first_author %}
+{% assign publication_statuses = 'published,in_progress' | split: ',' %}
+<div class="publication-tabs" role="tablist" aria-label="Publication status" hidden>
+{% for status in publication_statuses %}
+{% assign entries = pub_sections.first_author | where: 'status', status %}
+<button type="button" class="publication-tab" id="tab-{{ status }}" role="tab" aria-controls="panel-{{ status }}" aria-selected="{% if forloop.first %}true{% else %}false{% endif %}" tabindex="{% if forloop.first %}0{% else %}-1{% endif %}">{% if status == 'published' %}Published{% else %}In Progress{% endif %} <span class="publication-count">{{ entries.size }}</span></button>
+{% endfor %}
+</div>
+{% for status in publication_statuses %}
+{% assign entries = pub_sections.first_author | where: 'status', status %}
+<div class="publication-panel" id="panel-{{ status }}" role="tabpanel" aria-labelledby="tab-{{ status }}" tabindex="0">
+<h3 class="publication-panel-heading">{% if status == 'published' %}Published{% else %}In Progress{% endif %}</h3>
 <ol class="bibliography">
-{% for link in pub_sections.first_author %}
+{% for link in entries %}
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -49,5 +60,7 @@
 <br>
 {% endfor %}
 </ol>
+</div>
+{% endfor %}
 {% endif %}
 </div>

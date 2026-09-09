@@ -9,6 +9,7 @@ first_author:
     code: 
     bibtex: 
     image: ./assets/img/MODL.png
+    status: in_progress
     notes: Submitted
 
   - title: "GeoArbiter: Verifiability-Guided Grounding for Remote-Sensing Multimodal LLMs"
@@ -20,6 +21,7 @@ first_author:
     code: 
     bibtex: 
     image: ./assets/img/GeoArbiter.png
+    status: in_progress
     notes: Submitted
 
   - title: "PhenoStitch: Training-Free Panoptic Crop Mapping from Satellite Image Time Series"
@@ -32,6 +34,7 @@ first_author:
     page: 
     bibtex: 
     image: ./assets/img/PhenoStitch.png
+    status: in_progress
     notes: Submitted
 
   - title: "UAV3DCrop: Benchmarking 3D Reconstruction in Repeated Multi-Angle UAV Crop Surveys"
@@ -43,6 +46,7 @@ first_author:
     code: 
     bibtex: 
     image: ./assets/img/UAV3DCrop.png
+    status: in_progress
     notes: Submitted
 
   - title: "IPM-Bench: A Multi-task Benchmark for Evaluating Large Language Models in Integrated Pest Management"
@@ -54,6 +58,7 @@ first_author:
     code: 
     bibtex: 
     image: ./assets/img/IPM-Bench.png
+    status: in_progress
     notes: Under Review
 
   - title: "SympCap: Parameter-Efficient Crop Disease Image Captioning with Symptom-Aware Domain Knowledge"
@@ -65,6 +70,7 @@ first_author:
     code: 
     bibtex: 
     image: ./assets/img/SympCap.png
+    status: in_progress
     notes: Minor Revision
 
   - title: "K2B-MoPE: An Efficient Mixture of Phenotypic Experts Framework for Interpretable Kernel-to-Batch Fusarium Head Blight Severity Assessment in Wheat"
@@ -76,6 +82,7 @@ first_author:
     code: 
     bibtex: 
     image: ./assets/img/K2B-MoPE.png
+    status: in_progress
     notes: Under Review
 
   - title: "Pest-MoE: A Mixture-of-Experts Framework for Stage-Aware Multimodal Few-Shot Pest Recognition"
@@ -87,6 +94,7 @@ first_author:
     code: 
     bibtex: 
     image: ./assets/img/Pest-MoE.png
+    status: published
     notes: 
     
   - title: Winter damage diagnostic modeling based on synthetic vegetation indices from UAV-based multispectral imaging
@@ -98,6 +106,7 @@ first_author:
     code: 
     bibtex: 
     image: ./assets/img/winterturf.png
+    status: published
     notes: 
 
   - title: "AgriFusion: Multiscale RGB–NIR Fusion for Semantic Segmentation in Airborne Agricultural Imagery"
@@ -109,6 +118,7 @@ first_author:
     code: 
     bibtex: 
     image: ./assets/img/mdpi.png
+    status: published
     notes: 
 
   - title: "SugarcaneGAN: A novel dataset generating approach for sugarcane leaf diseases based on lightweight hybrid CNN-Transformer network"
@@ -121,6 +131,7 @@ first_author:
     page: 
     bibtex: 
     image: ./assets/img/sugarcanegan.jpg
+    status: published
     notes: 
  
   - title:  "SLViT: Shuffle-convolution-based lightweight Vision transformer for effective diagnosis of sugarcane leaf diseases"
@@ -133,4 +144,5 @@ first_author:
     page: 
     bibtex: 
     image: ./assets/img/slvit.png
+    status: published
     notes: 
