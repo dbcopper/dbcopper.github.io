@@ -1,5 +1,45 @@
 first_author:
 
+  - title: "Locating the Unseen: Inferring Fully-Occluded Fruit from Learned 3D Canopy Structure"
+    authors: <strong>Xuechen Li</strong>
+    conference_short: ICRA
+    impact_factor: "Conference"
+    conference: ICRA.
+    pdf: ./projects/locating-the-unseen.html
+    image: ./assets/img/LocatingTheUnseen.png
+    status: in_progress
+    notes: Under Review
+
+  - title: "Count-to-Confidence: Active View Planning with a Calibrated Fruit-Count Stopping Rule"
+    authors: <strong>Xuechen Li</strong>
+    conference_short: ICRA
+    impact_factor: "Conference"
+    conference: ICRA.
+    pdf: ./projects/count-to-confidence.html
+    image: ./assets/img/CountToConfidence.png
+    status: in_progress
+    notes: Under Review
+
+  - title: "When Foresight Pays: Robust Belief-Space Planning and Fixed-Scan Decisions in Crop Monitoring"
+    authors: <strong>Xuechen Li</strong>
+    conference_short: ICRA
+    impact_factor: "Conference"
+    conference: ICRA.
+    pdf: ./projects/when-foresight-pays.html
+    image: ./assets/img/WhenForesightPays.png
+    status: in_progress
+    notes: Under Review
+
+  - title: "HarvestSpeak: Language-Conditioned Selective-Harvest Sequencing with Occlusion Reveals and Protected Objects"
+    authors: <strong>Xuechen Li</strong>
+    conference_short: ICRA
+    impact_factor: "Conference"
+    conference: ICRA.
+    pdf: ./projects/harvestspeak.html
+    image: ./assets/img/HarvestSpeak.png
+    status: in_progress
+    notes: Under Review
+
   - title: "One Domain, Many Tongues: Composing Domain and Language LoRAs for Cross-Lingual Remote-Sensing MLLMs without Paired Data"
     authors: <strong>Xuechen Li*</strong>
     conference_short: COLING
