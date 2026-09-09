@@ -8,7 +8,7 @@ description: "Active view planning and stopping with calibrated fruit-count inte
 
 <div class="project-meta">
   <strong>Xuechen Li</strong><br>
-  ICRA. Under Review.
+  ICRA, 2027. Under Review.
 </div>
 
 <figure class="project-figure">

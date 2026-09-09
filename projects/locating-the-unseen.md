@@ -8,7 +8,7 @@ description: "Inferring hidden-fruit locations from observed 3D canopy structure
 
 <div class="project-meta">
   <strong>Xuechen Li</strong><br>
-  ICRA. Under Review.
+  ICRA, 2027. Under Review.
 </div>
 
 <figure class="project-figure">

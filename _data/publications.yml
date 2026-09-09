@@ -4,7 +4,7 @@ first_author:
     authors: <strong>Xuechen Li</strong>
     conference_short: ICRA
     impact_factor: "Conference"
-    conference: ICRA.
+    conference: ICRA, 2027.
     pdf: ./projects/locating-the-unseen.html
     image: ./assets/img/LocatingTheUnseen.png
     status: in_progress
@@ -14,7 +14,7 @@ first_author:
     authors: <strong>Xuechen Li</strong>
     conference_short: ICRA
     impact_factor: "Conference"
-    conference: ICRA.
+    conference: ICRA, 2027.
     pdf: ./projects/count-to-confidence.html
     image: ./assets/img/CountToConfidence.png
     status: in_progress
@@ -24,7 +24,7 @@ first_author:
     authors: <strong>Xuechen Li</strong>
     conference_short: ICRA
     impact_factor: "Conference"
-    conference: ICRA.
+    conference: ICRA, 2027.
     pdf: ./projects/when-foresight-pays.html
     image: ./assets/img/WhenForesightPays.png
     status: in_progress
@@ -34,7 +34,7 @@ first_author:
     authors: <strong>Xuechen Li</strong>
     conference_short: ICRA
     impact_factor: "Conference"
-    conference: ICRA.
+    conference: ICRA, 2027.
     pdf: ./projects/harvestspeak.html
     image: ./assets/img/HarvestSpeak.png
     status: in_progress

@@ -8,7 +8,7 @@ description: "Language-conditioned harvest sequencing with dynamic reveals and p
 
 <div class="project-meta">
   <strong>Xuechen Li</strong><br>
-  ICRA. Under Review.
+  ICRA, 2027. Under Review.
 </div>
 
 <figure class="project-figure">
