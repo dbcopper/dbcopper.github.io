@@ -8,13 +8,13 @@
 <div class="publication-tabs" role="tablist" aria-label="Publication status" hidden>
 {% for status in publication_statuses %}
 {% assign entries = pub_sections.first_author | where: 'status', status %}
-<button type="button" class="publication-tab" id="tab-{{ status }}" role="tab" aria-controls="panel-{{ status }}" aria-selected="{% if forloop.first %}true{% else %}false{% endif %}" tabindex="{% if forloop.first %}0{% else %}-1{% endif %}">{% if status == 'published' %}Published{% else %}In Progress{% endif %} <span class="publication-count">{{ entries.size }}</span></button>
+<button type="button" class="publication-tab" id="tab-{{ status }}" role="tab" aria-controls="panel-{{ status }}" aria-selected="{% if forloop.first %}true{% else %}false{% endif %}" tabindex="{% if forloop.first %}0{% else %}-1{% endif %}">{% if status == 'published' %}Published{% else %}Under Review{% endif %} <span class="publication-count">{{ entries.size }}</span></button>
 {% endfor %}
 </div>
 {% for status in publication_statuses %}
 {% assign entries = pub_sections.first_author | where: 'status', status %}
 <div class="publication-panel" id="panel-{{ status }}" role="tabpanel" aria-labelledby="tab-{{ status }}" tabindex="0">
-<h3 class="publication-panel-heading">{% if status == 'published' %}Published{% else %}In Progress{% endif %}</h3>
+<h3 class="publication-panel-heading">{% if status == 'published' %}Published{% else %}Under Review{% endif %}</h3>
 <ol class="bibliography">
 {% for link in entries %}
 <li>
