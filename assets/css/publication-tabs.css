@@ -1,10 +1,8 @@
 .publication-tabs {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-bottom: 1.5rem;
-  padding-bottom: 0.75rem;
-  border-bottom: 1px solid #8885;
+  gap: 1.75rem;
+  margin-bottom: 1.25rem;
 }
 
 .publication-tabs[hidden],
@@ -16,39 +14,58 @@
 .publication-tab {
   display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
-  padding: 0.55rem 0.9rem;
-  border: 1px solid transparent;
-  border-radius: 6px;
+  position: relative;
+  gap: 0.4rem;
+  min-height: 44px;
+  padding: 0.35rem 0 0.55rem;
+  border: 0;
+  border-radius: 0;
+  appearance: none;
   background: transparent;
   color: inherit;
   font: inherit;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  opacity: 0.6;
   cursor: pointer;
+  transition: opacity 0.15s ease;
 }
 
 .publication-tab:hover {
-  background: #8881;
+  opacity: 1;
 }
 
 .publication-tab[aria-selected="true"] {
-  background: #8882;
-  border-color: currentColor;
-  font-weight: 600;
+  opacity: 1;
+}
+
+.publication-tab[aria-selected="true"]::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  border-radius: 1px;
+  background: currentColor;
 }
 
 .publication-tab:focus-visible,
 .publication-panel:focus-visible {
-  outline: 2px solid currentColor;
+  outline: 1px dashed currentColor;
   outline-offset: 3px;
 }
 
 .publication-count {
-  padding: 0.05rem 0.4rem;
-  border-radius: 10px;
-  background: #8882;
-  font-size: 0.8rem;
-  line-height: 1.4;
+  font-size: 0.78rem;
+  font-variant-numeric: tabular-nums;
+  opacity: 0.65;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .publication-tab {
+    transition: none;
+  }
 }
 
 @media print {
