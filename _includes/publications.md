@@ -19,23 +19,20 @@
 {% for link in entries %}
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="publication-image">
     {% if link.image %}
     <div class="pub-image-wrap">
-      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1">
-      {% if link.conference_short %}
-      <abbr class="badge pub-venue-badge">{{ link.conference_short }}</abbr>
-      {% endif %}
-      {% if link.impact_factor %}
-      <span class="badge impact-factor-badge">{{ link.impact_factor }}</span>
-      {% endif %}
+      <img src="{{ link.image }}" alt="Overview of {{ link.title | escape }}" class="teaser" loading="lazy">
     </div>
     {% endif %}
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="publication-details">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
+      {% if link.impact_factor %}
+      <span class="publication-impact">{{ link.impact_factor }}</span>
+      {% endif %}
       </div>
     <div class="links">
       {% if link.code %}
@@ -57,7 +54,6 @@
   </div>
 </div>
 </li>
-<br>
 {% endfor %}
 </ol>
 </div>
