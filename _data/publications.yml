@@ -1,15 +1,17 @@
 first_author:
 
   - title: "AgriJev: Efficient Agricultural Candidate Scoring with Multi-Scale Adapted Models"
-    authors: <strong>Xuechen Li</strong>
+    authors: <strong>Xuechen Li</strong>, Xueliang Li
     conference_short: arXiv
     conference: arXiv:2610.19478, 2026.
     pdf: https://arxiv.org/abs/2610.19478
+    image: ./assets/img/AgriJev.png
+    image_fit: contain
     status: in_progress
     notes: Preprint
 
   - title: "One Domain, Many Tongues: Composing Domain and Language LoRAs for Cross-Lingual Remote-Sensing MLLMs without Paired Data"
-    authors: <strong>Xuechen Li*</strong>
+    authors: <strong>Xuechen Li</strong>, Xueliang Li
     conference_short: COLING
     impact_factor: "Conference"
     conference: COLING, 2027.
@@ -22,7 +24,7 @@ first_author:
     notes: Submitted
 
   - title: "GeoArbiter: Verifiability-Guided Grounding for Remote-Sensing Multimodal LLMs"
-    authors: <strong>Xuechen Li*</strong>
+    authors: <strong>Xuechen Li</strong>, Xueliang Li
     conference_short: COLING
     impact_factor: "Conference"
     conference: COLING, 2027.
@@ -96,13 +98,14 @@ first_author:
     status: in_progress
     notes: Under Review
 
-  - title: "Locating the Unseen: Inferring Fully-Occluded Fruit from Learned 3D Canopy Structure"
+  - title: "Locating the Unseen: Structure-Conditioned Hidden-Fruit Localization in Fixed-View 3D Canopies"
     authors: <strong>Xuechen Li</strong>, Ce Yang
     conference_short: ICRA
     impact_factor: "Conference"
     conference: ICRA, 2027.
     page: ./projects/locating-the-unseen.html
     image: ./assets/img/LocatingTheUnseen.png
+    image_fit: contain
     status: in_progress
     notes: Under Review
 
@@ -113,6 +116,7 @@ first_author:
     conference: ICRA, 2027.
     page: ./projects/count-to-confidence.html
     image: ./assets/img/CountToConfidence.png
+    image_fit: contain
     status: in_progress
     notes: Under Review
 
@@ -123,6 +127,7 @@ first_author:
     conference: ICRA, 2027.
     page: ./projects/when-foresight-pays.html
     image: ./assets/img/WhenForesightPays.png
+    image_fit: contain
     status: in_progress
     notes: Under Review
 
@@ -133,6 +138,7 @@ first_author:
     conference: ICRA, 2027.
     page: ./projects/harvestspeak.html
     image: ./assets/img/HarvestSpeak.png
+    image_fit: contain
     status: in_progress
     notes: Under Review
 

@@ -7,7 +7,7 @@ description: "Project page for MODL, a mutually orthogonal domain-language compo
 # One Domain, Many Tongues: Composing Domain and Language LoRAs for Cross-Lingual Remote-Sensing MLLMs without Paired Data
 
 <div class="project-meta">
-  <strong>Xuechen Li*</strong><br>
+  <strong>Xuechen Li</strong>, Xueliang Li<br>
   COLING, 2027. Submitted.
 </div>
 

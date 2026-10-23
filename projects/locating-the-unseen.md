@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Locating the Unseen: Inferring Fully-Occluded Fruit from Learned 3D Canopy Structure"
-description: "Inferring hidden-fruit locations from observed 3D canopy structure."
+title: "Locating the Unseen: Structure-Conditioned Hidden-Fruit Localization in Fixed-View 3D Canopies"
+description: "Structure-conditioned coarse hidden-fruit localization in fixed-view 3D canopies."
 ---
 
-# Locating the Unseen: Inferring Fully-Occluded Fruit from Learned 3D Canopy Structure
+# Locating the Unseen: Structure-Conditioned Hidden-Fruit Localization in Fixed-View 3D Canopies
 
 <div class="project-meta">
   <strong>Xuechen Li</strong>, Ce Yang<br>
@@ -13,9 +13,9 @@ description: "Inferring hidden-fruit locations from observed 3D canopy structure
 
 <figure class="project-figure">
   <img src="{{ "/assets/img/LocatingTheUnseen.png" | relative_url }}" alt="Locating the Unseen pipeline overview">
-  <figcaption><strong>Figure.</strong> A simulator-trained estimator maps visible-fruit density, canopy occupancy, and observability to hidden-fruit density. Controlled external transfer, simulated view selection, and automatic-input limitations are evaluated separately.</figcaption>
+  <figcaption><strong>Figure.</strong> Simulation training uses visible-fruit density, canopy occupancy, and regional observability to learn a coarse hidden-fruit density map. Controlled external evaluation transfers only the learned network weights to SfM and 3DGS structural inputs; the network remains frozen without external fine-tuning.</figcaption>
 </figure>
 
 ## Abstract
 
-Fruit occluded from every reachable camera cannot be recovered by reconstructing and segmenting visible fruit. We ask whether its spatial distribution can instead be inferred from the surrounding 3D canopy structure. A compact network learns this structure-to-hidden mapping in a geometric simulator and transfers zero-shot to external reconstructions under controlled inputs. It beats an occlusion heuristic on all six photoreal 3DGS crops by a mean localization-correlation margin of +0.36 (crop-bootstrap 95% CI [0.26,0.44]; sign p=0.016) and on ten real Fuji-SfM trees by +0.15 (tree-bootstrap 95% CI [0.12,0.18]; p<0.001). A locked automatic-input bridge, including automatic row partitioning and visible-identity construction, does not retain that incremental advantage (+0.045, 95% CI [-0.007,0.104]), exposing the upstream input pipeline as a boundary. Absolute count likewise does not transfer zero-shot: a harvest anchor reaches ~5% error but is indistinguishable from a per-orchard constant. The hidden-density map guides a single simulated view, revealing 0.72 of occluded fruit versus 0.37 for random, but a controlled target-assisted external replay fails its adoption gate. The supported contribution is controlled-input hidden-fruit localization, not reliable end-to-end captured-data counting or view selection.
+Accurate spatial fruit inventories support yield forecasting, harvest planning, and orchard automation. Yet dense canopies and restricted viewpoints leave some fruit unseen across a prescribed acquisition set, so conventional detection and reconstruction systems do not represent their spatial distribution. We formulate this missing component as coarse hidden-fruit localization conditioned on visible-fruit density, canopy occupancy, and regional observability. A compact volumetric estimator is trained with exact supervision in geometric simulation and transferred with frozen weights to controlled 3D reconstructions. Evaluated under two distinct labeling operators, the frozen model consistently outperforms an occlusion heuristic across photorealistic 3DGS crops and real Fuji-SfM trees, with mean localization-correlation margins of +0.36 and +0.15, respectively. These results support a transferable relationship between observed canopy structure and the coarse spatial distribution of unseen fruit. The present evidence establishes this relationship under controlled inputs; automatic input construction remains the principal deployment boundary.

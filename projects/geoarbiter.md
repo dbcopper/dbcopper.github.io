@@ -7,7 +7,7 @@ description: "Project page for GeoArbiter, a verifiability-guided grounding pipe
 # GeoArbiter: Verifiability-Guided Grounding for Remote-Sensing Multimodal LLMs
 
 <div class="project-meta">
-  <strong>Xuechen Li*</strong><br>
+  <strong>Xuechen Li</strong>, Xueliang Li<br>
   COLING, 2027. Submitted.
 </div>
 

@@ -22,7 +22,7 @@
   {% if link.image %}
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <div class="pub-image-wrap">
-      <img src="{{ link.image }}" alt="{{ link.title | escape }}" class="teaser img-fluid z-depth-1">
+      <img src="{{ link.image }}" alt="{{ link.title | escape }}" class="teaser img-fluid z-depth-1"{% if link.image_fit == 'contain' %} style="object-fit: contain; background-color: #fff;"{% endif %}>
       {% if link.conference_short %}
       <abbr class="badge pub-venue-badge">{{ link.conference_short }}</abbr>
       {% endif %}

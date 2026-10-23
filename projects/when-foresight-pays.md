@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "When Foresight Pays: Robust Belief-Space Planning and Fixed-Scan Decisions in Crop Monitoring"
-description: "Belief-space crop monitoring and separately calibrated fixed-scan harvest decisions."
+description: "Belief-space crop monitoring with budgeted daily routes and a separate fixed-scan harvest decision layer."
 ---
 
 # When Foresight Pays: Robust Belief-Space Planning and Fixed-Scan Decisions in Crop Monitoring
@@ -13,9 +13,9 @@ description: "Belief-space crop monitoring and separately calibrated fixed-scan 
 
 <figure class="project-figure">
   <img src="{{ "/assets/img/WhenForesightPays.png" | relative_url }}" alt="When Foresight Pays pipeline overview">
-  <figcaption><strong>Figure.</strong> The adaptive monitoring loop propagates a belief and replans after observations. A separate fixed-scan protocol calibrates and selects harvest decisions on disjoint simulated scenes. A shifted-date audit tests the limits of transfer to real data.</figcaption>
+  <figcaption><strong>Figure.</strong> Observations update particle beliefs to forecast maturity, visibility, and monitoring utility. Visit priorities and routing select a full daily route under a travel-and-dwell budget, followed by next-day replanning. A separate fixed-scan rule commits when a calibrated lower maturity bound reaches the threshold and otherwise abstains; its calibration multiplier does not enter adaptive planning.</figcaption>
 </figure>
 
 ## Abstract
 
-When does a learned crop-dynamics model improve a robot's monitoring decisions? We separate two findings that use different protocols. In adaptive simulated sensing, the planner only ties model-free baselines on raw season value, even with oracle latent-driver knowledge; under controlled onset bias, however, planning over its belief degrades more gradually than planning on the model mean. In a distinct fixed sparse scan, we froze the condition and protocol before a new 200-scene calibration, 200-scene operating-point selection, and one-shot 400-scene test. Scene-max conformal bounds give simultaneous fixed-protocol coverage across all plots for exchangeable simulated scenes. Within the prespecified alpha grid, the belief decision passes its empirical scene-FDP gate (FDP 0.014, one-sided U95 0.020) and commits 12.46 ripe plots, versus 1.26 for a conformalized GP (paired difference 11.20, 95% CI [10.31,12.11]). A raw interval yields more but narrowly fails confirmation (U95 0.051). In leave-one-transition-out SIRI replay, forecast skill is slight (CRPS 0.050 vs. persistence 0.054), while source-only calibration under-covers. Thus calibration supports only the fixed-scan simulated decision layer, not the adaptive planner or real-domain risk control.
+Crop-monitoring robots must decide where and when to observe as plants develop and visibility changes, under limited sensing and travel budgets. Forecast-driven monitoring requires connecting uncertain crop-growth predictions with time-sensitive observation and harvest decisions. We present a belief-space monitoring framework that propagates particle forecasts, scores candidate visits, and plans daily routes under a joint sensing-and-travel budget. A separate calibrated decision layer converts fixed-scan forecasts into harvest commitments. In adaptive simulations, retaining the particle belief improves robustness to model-onset bias relative to mean-based planning. In a separately evaluated fixed-scan test, the belief forecaster yields 15.87 additional ripe plots per scene over a Gaussian-process baseline. Both methods pass an adjusted empirical risk gate at a prespecified 5% mean scene false-discovery proportion cap. Real strawberry and cauliflower time series provide component-level evidence of improved forecasting over persistence. The framework connects temporal crop prediction with budgeted sensing and explicit harvest decision rules.
