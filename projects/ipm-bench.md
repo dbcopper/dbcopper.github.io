@@ -8,7 +8,7 @@ description: "Project page for IPM-Bench, an extension-grounded benchmark for te
 
 <div class="project-meta">
   <strong>Xuechen Li</strong>, Huixue Zhou, Junxiong Zhou, Lang Qiao, Ce Yang*<br>
-  EMNLP, 2026. Under Review.
+  NAACL, 2027. Under Review.
 </div>
 
 <figure class="project-figure">

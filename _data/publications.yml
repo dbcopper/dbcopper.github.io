@@ -2,14 +2,15 @@ first_author:
 
   - title: "AgriJev: Efficient Agricultural Candidate Scoring with Multi-Scale Adapted Models"
     authors: <strong>Xuechen Li</strong>, Xueliang Li
-    conference_short: arXiv
-    conference: arXiv:2610.19478, 2026.
+    conference_short: NAACL
+    impact_factor: "Conference"
+    conference: NAACL, 2027.
     pdf: https://arxiv.org/abs/2610.19478
     page: ./projects/agrijev.html
     image: ./assets/img/AgriJev-teaser.png
     image_fit: contain
     status: in_progress
-    notes: Preprint
+    notes: Under Review
 
   - title: "One Domain, Many Tongues: Composing Domain and Language LoRAs for Cross-Lingual Remote-Sensing MLLMs without Paired Data"
     authors: <strong>Xuechen Li</strong>, Xueliang Li
@@ -65,9 +66,9 @@ first_author:
 
   - title: "IPM-Bench: A Multi-task Benchmark for Evaluating Large Language Models in Integrated Pest Management"
     authors: <strong>Xuechen Li</strong>, Huixue Zhou, Junxiong Zhou, Lang Qiao, Ce Yang*
-    conference_short: EMNLP
+    conference_short: NAACL
     impact_factor: "Conference"
-    conference: EMNLP, 2026.
+    conference: NAACL, 2027.
     page: ./projects/ipm-bench.html
     code: 
     bibtex: 
@@ -149,6 +150,7 @@ first_author:
     impact_factor: "IF 16.1"
     conference: Artificial Intelligence in Agriculture, 2026.
     pdf: https://www.sciencedirect.com/science/article/pii/S2589721726000838?via%3Dihub
+    page: ./projects/pest-moe.html
     code: 
     bibtex: 
     image: ./assets/img/Pest-MoE.png
@@ -161,6 +163,7 @@ first_author:
     impact_factor: "IF 10.3"
     conference: Computers and Electronics in Agriculture, 2025.
     pdf: https://doi.org/10.1016/j.compag.2025.111334
+    page: ./projects/winter-damage.html
     code: 
     bibtex: 
     image: ./assets/img/winterturf.png
@@ -173,6 +176,7 @@ first_author:
     impact_factor: "IF 3.1"
     conference: AgriEngineering, 2025.
     pdf: https://doi.org/10.3390/agriengineering7110388
+    page: ./projects/agrifusion.html
     code: 
     bibtex: 
     image: ./assets/img/mdpi.png
@@ -186,7 +190,7 @@ first_author:
     conference: Computers and Electronics in Agriculture, 2024.
     pdf: https://doi.org/10.1016/j.compag.2024.108762
     code: 
-    page: 
+    page: ./projects/sugarcanegan.html
     bibtex: 
     image: ./assets/img/sugarcanegan.jpg
     status: published
@@ -199,7 +203,7 @@ first_author:
     conference: Journal of King Saud University - Computer and Information Sciences, 2022.
     pdf: https://doi.org/10.1016/j.jksuci.2022.09.013
     code: 
-    page: 
+    page: ./projects/slvit.html
     bibtex: 
     image: ./assets/img/slvit.png
     status: published
