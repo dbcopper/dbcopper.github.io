@@ -8,7 +8,7 @@ description: "Project page for MODL, a mutually orthogonal domain-language compo
 
 <div class="project-meta">
   <strong>Xuechen Li</strong>, Xueliang Li<br>
-  COLING, 2027. Submitted.
+  COLING, 2027.
 </div>
 
 [Paper](https://arxiv.org/abs/2609.26097)

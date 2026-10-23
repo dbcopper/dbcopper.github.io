@@ -10,7 +10,6 @@ first_author:
     image: ./assets/img/AgriJev-teaser.png
     image_fit: contain
     status: in_progress
-    notes: Under Review
 
   - title: "One Domain, Many Tongues: Composing Domain and Language LoRAs for Cross-Lingual Remote-Sensing MLLMs without Paired Data"
     authors: <strong>Xuechen Li</strong>, Xueliang Li
@@ -23,7 +22,6 @@ first_author:
     bibtex: 
     image: ./assets/img/MODL.png
     status: in_progress
-    notes: Submitted
 
   - title: "GeoArbiter: Verifiability-Guided Grounding for Remote-Sensing Multimodal LLMs"
     authors: <strong>Xuechen Li</strong>, Xueliang Li
@@ -36,7 +34,6 @@ first_author:
     bibtex: 
     image: ./assets/img/GeoArbiter.png
     status: in_progress
-    notes: Submitted
 
   - title: "PhenoStitch: Training-Free Panoptic Crop Mapping from Satellite Image Time Series"
     authors: <strong>Xuechen Li*</strong>, Rui-Feng Wang, Xueliang Li, Chonghao Qiu, Junxiong Zhou, Lang Qiao
@@ -49,7 +46,6 @@ first_author:
     bibtex: 
     image: ./assets/img/PhenoStitch.png
     status: in_progress
-    notes: Submitted
 
   - title: "UAV3DCrop: Benchmarking 3D Reconstruction in Repeated Multi-Angle UAV Crop Surveys"
     authors: Junxiong Zhou<sup>&dagger;</sup>, <strong>Xuechen Li<sup>&dagger;</sup></strong>, Chonghao Qiu<sup>&dagger;</sup>, Lang Qiao, Xiaowei Jia, Qi Yang, Chishan Zhang, Leikun Yin, Nanshan You, Vipin Kumar, David Mulla, Ce Yang, Zhenong Jin, Licheng Liu
@@ -62,7 +58,6 @@ first_author:
     bibtex: 
     image: ./assets/img/UAV3DCrop.png
     status: in_progress
-    notes: Submitted
 
   - title: "IPM-Bench: A Multi-task Benchmark for Evaluating Large Language Models in Integrated Pest Management"
     authors: <strong>Xuechen Li</strong>, Huixue Zhou, Junxiong Zhou, Lang Qiao, Ce Yang*
@@ -74,7 +69,6 @@ first_author:
     bibtex: 
     image: ./assets/img/IPM-Bench.png
     status: in_progress
-    notes: Under Review
 
   - title: "SympCap: Parameter-Efficient Crop Disease Image Captioning with Symptom-Aware Domain Knowledge"
     authors: <strong>Xuechen Li</strong>, Lang Qiao, Junxiong Zhou, Ce Yang*
@@ -86,7 +80,6 @@ first_author:
     bibtex: 
     image: ./assets/img/SympCap.png
     status: in_progress
-    notes: Minor Revision
 
   - title: "K2B-MoPE: An Efficient Mixture of Phenotypic Experts Framework for Interpretable Kernel-to-Batch Fusarium Head Blight Severity Assessment in Wheat"
     authors: <strong>Xuechen Li</strong>, Susan Reynolds, Lang Qiao, Junxiong Zhou, Zezhong Tian, James Anderson, Shahryar Kianian, Ce Yang*
@@ -98,7 +91,6 @@ first_author:
     bibtex: 
     image: ./assets/img/K2B-MoPE.png
     status: in_progress
-    notes: Under Review
 
   - title: "Locating the Unseen: Structure-Conditioned Hidden-Fruit Localization in Fixed-View 3D Canopies"
     authors: <strong>Xuechen Li</strong>, Ce Yang
@@ -109,7 +101,6 @@ first_author:
     image: ./assets/img/LocatingTheUnseen.png
     image_fit: contain
     status: in_progress
-    notes: Under Review
 
   - title: "Count-to-Confidence: Active View Planning with a Calibrated Fruit-Count Stopping Rule"
     authors: <strong>Xuechen Li</strong>, Ce Yang
@@ -120,7 +111,6 @@ first_author:
     image: ./assets/img/CountToConfidence.png
     image_fit: contain
     status: in_progress
-    notes: Under Review
 
   - title: "When Foresight Pays: Robust Belief-Space Planning and Fixed-Scan Decisions in Crop Monitoring"
     authors: <strong>Xuechen Li</strong>, Ce Yang
@@ -131,7 +121,6 @@ first_author:
     image: ./assets/img/WhenForesightPays.png
     image_fit: contain
     status: in_progress
-    notes: Under Review
 
   - title: "HarvestSpeak: Language-Conditioned Selective-Harvest Sequencing with Occlusion Reveals and Protected Objects"
     authors: <strong>Xuechen Li</strong>, Ce Yang
@@ -142,7 +131,6 @@ first_author:
     image: ./assets/img/HarvestSpeak.png
     image_fit: contain
     status: in_progress
-    notes: Under Review
 
   - title: "Pest-MoE: A Mixture-of-Experts Framework for Stage-Aware Multimodal Few-Shot Pest Recognition"
     authors: <strong>Xuechen Li</strong>, Lang Qiao, Vera Krischik, Ce Yang*

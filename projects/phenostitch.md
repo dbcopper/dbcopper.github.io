@@ -8,7 +8,7 @@ description: "Project page for PhenoStitch, a training-free panoptic crop-mappin
 
 <div class="project-meta">
   <strong>Xuechen Li*</strong>, Rui-Feng Wang, Xueliang Li, Chonghao Qiu, Junxiong Zhou, Lang Qiao<br>
-  AAAI, 2027. Submitted.
+  AAAI, 2027.
 </div>
 
 [Paper](https://arxiv.org/abs/2608.00870)

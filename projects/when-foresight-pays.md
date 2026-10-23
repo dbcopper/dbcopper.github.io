@@ -8,7 +8,7 @@ description: "Belief-space crop monitoring with budgeted daily routes and a sepa
 
 <div class="project-meta">
   <strong>Xuechen Li</strong>, Ce Yang<br>
-  ICRA, 2027. Under Review.
+  ICRA, 2027.
 </div>
 
 <figure class="project-figure">

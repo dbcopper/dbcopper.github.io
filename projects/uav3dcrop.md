@@ -8,7 +8,7 @@ description: "Project page for UAV3DCrop, a benchmark for 3D reconstruction in r
 
 <div class="project-meta">
   Junxiong Zhou<sup>&dagger;</sup>, <strong>Xuechen Li<sup>&dagger;</sup></strong>, Chonghao Qiu<sup>&dagger;</sup>, Lang Qiao, Xiaowei Jia, Qi Yang, Chishan Zhang, Leikun Yin, Nanshan You, Vipin Kumar, David Mulla, Ce Yang, Zhenong Jin, Licheng Liu<br>
-  KDD 2027 Datasets and Benchmarks, 2027. Submitted.
+  KDD 2027 Datasets and Benchmarks, 2027.
 </div>
 
 [Paper](https://arxiv.org/abs/2608.06404)

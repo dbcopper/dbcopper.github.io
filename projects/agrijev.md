@@ -8,7 +8,7 @@ description: "Agricultural candidate scoring with adapted models at four scales 
 
 <div class="project-meta">
   <strong>Xuechen Li</strong>, Xueliang Li<br>
-  NAACL, 2027. Under Review.
+  NAACL, 2027.
 </div>
 
 [Paper](https://arxiv.org/abs/2610.19478) &middot; [PDF](https://arxiv.org/pdf/2610.19478)

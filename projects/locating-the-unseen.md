@@ -8,7 +8,7 @@ description: "Structure-conditioned coarse hidden-fruit localization in fixed-vi
 
 <div class="project-meta">
   <strong>Xuechen Li</strong>, Ce Yang<br>
-  ICRA, 2027. Under Review.
+  ICRA, 2027.
 </div>
 
 <figure class="project-figure">

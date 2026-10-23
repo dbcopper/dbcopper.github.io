@@ -8,7 +8,7 @@ description: "Interpretable wheat Fusarium head blight severity assessment from 
 
 <div class="project-meta">
   <strong>Xuechen Li</strong>, Susan Reynolds, Lang Qiao, Junxiong Zhou, Zezhong Tian, James Anderson, Shahryar Kianian, Ce Yang*<br>
-  Biosystems Engineering, 2026. Under Review.
+  Biosystems Engineering, 2026.
 </div>
 
 [Code](https://github.com/dbcopper/K2B-MoPE)
