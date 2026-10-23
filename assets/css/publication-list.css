@@ -13,3 +13,54 @@ html[data-theme="dark"] .publications ol.bibliography li .author {
 html[data-theme="dark"] .publications ol.bibliography li .author strong {
   color: #eeeeeb;
 }
+
+.publications ol.bibliography li .links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 8px;
+  margin-top: 6px;
+}
+
+.publications ol.bibliography li .links a.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  min-height: 28px;
+  padding: 3px 12px;
+  border: 1px solid #d5d9d2;
+  border-radius: 7px;
+  background: #f5f6f3;
+  color: #3d4639;
+  box-shadow: none;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.4;
+  text-decoration: none;
+  transition: background-color 150ms ease, border-color 150ms ease;
+}
+
+.publications ol.bibliography li .links a.btn:hover {
+  border-color: #abb5a5;
+  background: #e9ede5;
+  color: #263022;
+  text-decoration: none;
+}
+
+.publications ol.bibliography li .links a.btn:focus-visible {
+  outline: 2px solid #627b53;
+  outline-offset: 3px;
+}
+
+html[data-theme="dark"] .publications ol.bibliography li .links a.btn {
+  border-color: #51594c;
+  background: #2b3027;
+  color: #e4e9df;
+}
+
+html[data-theme="dark"] .publications ol.bibliography li .links a.btn:hover {
+  border-color: #839575;
+  background: #394332;
+  color: #ffffff;
+}
