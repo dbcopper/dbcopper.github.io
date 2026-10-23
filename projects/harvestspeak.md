@@ -7,7 +7,7 @@ description: "Language-conditioned harvest sequencing with dynamic reveals and p
 # HarvestSpeak: Language-Conditioned Selective-Harvest Sequencing with Occlusion Reveals and Protected Objects
 
 <div class="project-meta">
-  <strong>Xuechen Li</strong><br>
+  <strong>Xuechen Li</strong>, Ce Yang<br>
   ICRA, 2027. Under Review.
 </div>
 

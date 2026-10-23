@@ -7,7 +7,7 @@ description: "Active view planning and stopping with calibrated fruit-count inte
 # Count-to-Confidence: Active View Planning with a Calibrated Fruit-Count Stopping Rule
 
 <div class="project-meta">
-  <strong>Xuechen Li</strong><br>
+  <strong>Xuechen Li</strong>, Ce Yang<br>
   ICRA, 2027. Under Review.
 </div>
 

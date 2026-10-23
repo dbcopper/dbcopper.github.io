@@ -3,7 +3,7 @@ layout: homepage
 ---
 ## About Me
 
-I am a Ph.D. candidate at the University of Minnesota, Twin Cities, advised by [Prof. Ce Yang](https://bbe.umn.edu/people/ce-yang). I hold a Master's degree in Computer Science and a Bachelor's degree in Mechanical Engineering. My research focuses on computer vision and vision-language models, with applications in agriculture. I explore the use of large language models and agent systems for crop disease diagnosis, crop phenotyping, and intelligent decision support. My work aims to integrate advanced AI techniques with agricultural data to enhance precision farming and sustainable crop management.
+I am a Ph.D. candidate at the University of Minnesota, Twin Cities, advised by [Prof. Ce Yang](https://bbe.umn.edu/people/ce-yang). My research spans multimodal AI, agent systems, and 3D perception, with a focus on how AI systems use visual evidence to reason and make reliable decisions in complex environments. My work explores grounded vision-language models ([GeoArbiter](https://arxiv.org/abs/2608.00877)), efficient agricultural decision models ([AgriJev](https://arxiv.org/abs/2610.19478)), 3D crop reconstruction ([UAV3DCrop](https://arxiv.org/abs/2608.06404)), and crop mapping from satellite image time series ([PhenoStitch](https://arxiv.org/abs/2608.00870)). I also study active sensing and planning under uncertainty ([Count-to-Confidence]({{ '/projects/count-to-confidence.html' | relative_url }})) and develop agent-based tools for plant phenotyping ([PhenoAgent](https://phenoagent-showcase.pages.dev/)), alongside AI applications and developer tools that bring these ideas into practical workflows. I hold a master's degree in Computer Science and a bachelor's degree in Mechanical Engineering.
 
 <!--
 ## Education

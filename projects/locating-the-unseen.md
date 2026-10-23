@@ -7,7 +7,7 @@ description: "Inferring hidden-fruit locations from observed 3D canopy structure
 # Locating the Unseen: Inferring Fully-Occluded Fruit from Learned 3D Canopy Structure
 
 <div class="project-meta">
-  <strong>Xuechen Li</strong><br>
+  <strong>Xuechen Li</strong>, Ce Yang<br>
   ICRA, 2027. Under Review.
 </div>
 

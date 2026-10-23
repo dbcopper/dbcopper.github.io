@@ -7,7 +7,7 @@ description: "Belief-space crop monitoring and separately calibrated fixed-scan 
 # When Foresight Pays: Robust Belief-Space Planning and Fixed-Scan Decisions in Crop Monitoring
 
 <div class="project-meta">
-  <strong>Xuechen Li</strong><br>
+  <strong>Xuechen Li</strong>, Ce Yang<br>
   ICRA, 2027. Under Review.
 </div>
 

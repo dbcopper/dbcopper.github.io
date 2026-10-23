@@ -1,51 +1,20 @@
 first_author:
 
-  - title: "Locating the Unseen: Inferring Fully-Occluded Fruit from Learned 3D Canopy Structure"
+  - title: "AgriJev: Efficient Agricultural Candidate Scoring with Multi-Scale Adapted Models"
     authors: <strong>Xuechen Li</strong>
-    conference_short: ICRA
-    impact_factor: "Conference"
-    conference: ICRA, 2027.
-    pdf: ./projects/locating-the-unseen.html
-    image: ./assets/img/LocatingTheUnseen.png
+    conference_short: arXiv
+    conference: arXiv:2610.19478, 2026.
+    pdf: https://arxiv.org/abs/2610.19478
     status: in_progress
-    notes: Under Review
-
-  - title: "Count-to-Confidence: Active View Planning with a Calibrated Fruit-Count Stopping Rule"
-    authors: <strong>Xuechen Li</strong>
-    conference_short: ICRA
-    impact_factor: "Conference"
-    conference: ICRA, 2027.
-    pdf: ./projects/count-to-confidence.html
-    image: ./assets/img/CountToConfidence.png
-    status: in_progress
-    notes: Under Review
-
-  - title: "When Foresight Pays: Robust Belief-Space Planning and Fixed-Scan Decisions in Crop Monitoring"
-    authors: <strong>Xuechen Li</strong>
-    conference_short: ICRA
-    impact_factor: "Conference"
-    conference: ICRA, 2027.
-    pdf: ./projects/when-foresight-pays.html
-    image: ./assets/img/WhenForesightPays.png
-    status: in_progress
-    notes: Under Review
-
-  - title: "HarvestSpeak: Language-Conditioned Selective-Harvest Sequencing with Occlusion Reveals and Protected Objects"
-    authors: <strong>Xuechen Li</strong>
-    conference_short: ICRA
-    impact_factor: "Conference"
-    conference: ICRA, 2027.
-    pdf: ./projects/harvestspeak.html
-    image: ./assets/img/HarvestSpeak.png
-    status: in_progress
-    notes: Under Review
+    notes: Preprint
 
   - title: "One Domain, Many Tongues: Composing Domain and Language LoRAs for Cross-Lingual Remote-Sensing MLLMs without Paired Data"
     authors: <strong>Xuechen Li*</strong>
     conference_short: COLING
     impact_factor: "Conference"
     conference: COLING, 2027.
-    pdf: ./projects/modl.html
+    pdf: https://arxiv.org/abs/2609.26097
+    page: ./projects/modl.html
     code: 
     bibtex: 
     image: ./assets/img/MODL.png
@@ -57,7 +26,8 @@ first_author:
     conference_short: COLING
     impact_factor: "Conference"
     conference: COLING, 2027.
-    pdf: ./projects/geoarbiter.html
+    pdf: https://arxiv.org/abs/2608.00877
+    page: ./projects/geoarbiter.html
     code: 
     bibtex: 
     image: ./assets/img/GeoArbiter.png
@@ -69,9 +39,9 @@ first_author:
     conference_short: AAAI
     impact_factor: "Conference"
     conference: AAAI, 2027.
-    pdf: ./projects/phenostitch.html
+    pdf: https://arxiv.org/abs/2608.00870
     code: 
-    page: 
+    page: ./projects/phenostitch.html
     bibtex: 
     image: ./assets/img/PhenoStitch.png
     status: in_progress
@@ -82,7 +52,8 @@ first_author:
     conference_short: KDD
     impact_factor: "Conference"
     conference: KDD 2027 Datasets and Benchmarks, 2027.
-    pdf: ./projects/uav3dcrop.html
+    pdf: https://arxiv.org/abs/2608.06404
+    page: ./projects/uav3dcrop.html
     code: 
     bibtex: 
     image: ./assets/img/UAV3DCrop.png
@@ -94,7 +65,7 @@ first_author:
     conference_short: EMNLP
     impact_factor: "Conference"
     conference: EMNLP, 2026.
-    pdf: ./projects/ipm-bench.html
+    page: ./projects/ipm-bench.html
     code: 
     bibtex: 
     image: ./assets/img/IPM-Bench.png
@@ -106,7 +77,7 @@ first_author:
     conference_short: COMPAG
     impact_factor: "IF 10.3"
     conference: Computers and Electronics in Agriculture, 2026.
-    pdf: 
+    page: ./projects/sympcap.html
     code: 
     bibtex: 
     image: ./assets/img/SympCap.png
@@ -118,10 +89,50 @@ first_author:
     conference_short: Biosyst. Eng.
     impact_factor: "IF 7.8"
     conference: Biosystems Engineering, 2026.
-    pdf: 
-    code: 
+    page: ./projects/k2b-mope.html
+    code: https://github.com/dbcopper/K2B-MoPE
     bibtex: 
     image: ./assets/img/K2B-MoPE.png
+    status: in_progress
+    notes: Under Review
+
+  - title: "Locating the Unseen: Inferring Fully-Occluded Fruit from Learned 3D Canopy Structure"
+    authors: <strong>Xuechen Li</strong>, Ce Yang
+    conference_short: ICRA
+    impact_factor: "Conference"
+    conference: ICRA, 2027.
+    page: ./projects/locating-the-unseen.html
+    image: ./assets/img/LocatingTheUnseen.png
+    status: in_progress
+    notes: Under Review
+
+  - title: "Count-to-Confidence: Active View Planning with a Calibrated Fruit-Count Stopping Rule"
+    authors: <strong>Xuechen Li</strong>, Ce Yang
+    conference_short: ICRA
+    impact_factor: "Conference"
+    conference: ICRA, 2027.
+    page: ./projects/count-to-confidence.html
+    image: ./assets/img/CountToConfidence.png
+    status: in_progress
+    notes: Under Review
+
+  - title: "When Foresight Pays: Robust Belief-Space Planning and Fixed-Scan Decisions in Crop Monitoring"
+    authors: <strong>Xuechen Li</strong>, Ce Yang
+    conference_short: ICRA
+    impact_factor: "Conference"
+    conference: ICRA, 2027.
+    page: ./projects/when-foresight-pays.html
+    image: ./assets/img/WhenForesightPays.png
+    status: in_progress
+    notes: Under Review
+
+  - title: "HarvestSpeak: Language-Conditioned Selective-Harvest Sequencing with Occlusion Reveals and Protected Objects"
+    authors: <strong>Xuechen Li</strong>, Ce Yang
+    conference_short: ICRA
+    impact_factor: "Conference"
+    conference: ICRA, 2027.
+    page: ./projects/harvestspeak.html
+    image: ./assets/img/HarvestSpeak.png
     status: in_progress
     notes: Under Review
 

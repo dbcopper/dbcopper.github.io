@@ -8,21 +8,21 @@
 <div class="publication-tabs" role="tablist" aria-label="Publication status" hidden>
 {% for status in publication_statuses %}
 {% assign entries = pub_sections.first_author | where: 'status', status %}
-<button type="button" class="publication-tab" id="tab-{{ status }}" role="tab" aria-controls="panel-{{ status }}" aria-selected="{% if forloop.first %}true{% else %}false{% endif %}" tabindex="{% if forloop.first %}0{% else %}-1{% endif %}">{% if status == 'published' %}Published{% else %}Under Review{% endif %} <span class="publication-count">{{ entries.size }}</span></button>
+<button type="button" class="publication-tab" id="tab-{{ status }}" role="tab" aria-controls="panel-{{ status }}" aria-selected="{% if forloop.first %}true{% else %}false{% endif %}" tabindex="{% if forloop.first %}0{% else %}-1{% endif %}">{% if status == 'published' %}Published{% else %}Preprints &amp; Under Review{% endif %} <span class="publication-count">{{ entries.size }}</span></button>
 {% endfor %}
 </div>
 {% for status in publication_statuses %}
 {% assign entries = pub_sections.first_author | where: 'status', status %}
 <div class="publication-panel" id="panel-{{ status }}" role="tabpanel" aria-labelledby="tab-{{ status }}" tabindex="0">
-<h3 class="publication-panel-heading">{% if status == 'published' %}Published{% else %}Under Review{% endif %}</h3>
+<h3 class="publication-panel-heading">{% if status == 'published' %}Published{% else %}Preprints &amp; Under Review{% endif %}</h3>
 <ol class="bibliography">
 {% for link in entries %}
 <li>
 <div class="pub-row">
+  {% if link.image %}
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %}
     <div class="pub-image-wrap">
-      <img src="{{ link.image }}" class="teaser img-fluid z-depth-1">
+      <img src="{{ link.image }}" alt="{{ link.title | escape }}" class="teaser img-fluid z-depth-1">
       {% if link.conference_short %}
       <abbr class="badge pub-venue-badge">{{ link.conference_short }}</abbr>
       {% endif %}
@@ -30,14 +30,18 @@
       <span class="badge impact-factor-badge">{{ link.impact_factor }}</span>
       {% endif %}
     </div>
-    {% endif %}
   </div>
+  {% endif %}
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      {% assign title_url = link.pdf | default: link.page | default: link.code %}
+      <div class="title">{% if title_url %}<a href="{{ title_url }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
+      {% if link.pdf %}
+      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">Paper</a>
+      {% endif %}
       {% if link.code %}
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
