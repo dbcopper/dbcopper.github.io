@@ -5,7 +5,8 @@ first_author:
     conference_short: arXiv
     conference: arXiv:2610.19478, 2026.
     pdf: https://arxiv.org/abs/2610.19478
-    image: ./assets/img/AgriJev.png
+    page: ./projects/agrijev.html
+    image: ./assets/img/AgriJev-teaser.png
     image_fit: contain
     status: in_progress
     notes: Preprint
