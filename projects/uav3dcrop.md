@@ -7,7 +7,8 @@ description: "Project page for UAV3DCrop, a benchmark for 3D reconstruction in r
 # UAV3DCrop: Benchmarking 3D Reconstruction in Repeated Multi-Angle UAV Crop Surveys
 
 <div class="project-meta">
-  Junxiong Zhou<sup>&dagger;</sup>, <strong>Xuechen Li<sup>&dagger;</sup></strong>, Chonghao Qiu<sup>&dagger;</sup>, Lang Qiao, Xiaowei Jia, Qi Yang, Chishan Zhang, Leikun Yin, Nanshan You, Vipin Kumar, David Mulla, Ce Yang, Zhenong Jin, Licheng Liu<br>
+  Junxiong Zhou<sup>&dagger;,*</sup>, <strong>Xuechen Li<sup>&dagger;</sup></strong>, Chonghao Qiu<sup>&dagger;</sup>, Lang Qiao, Xiaowei Jia, Qi Yang, Chishan Zhang, Leikun Yin, Nanshan You, Vipin Kumar, David Mulla, Ce Yang, Zhenong Jin<sup>*</sup>, Licheng Liu<sup>*</sup><br>
+  <small>&dagger; Equal contribution. * Corresponding authors.</small><br>
   KDD 2027 Datasets and Benchmarks, 2027.
 </div>
 
