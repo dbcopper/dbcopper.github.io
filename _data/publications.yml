@@ -57,7 +57,7 @@ first_author:
     code: 
     bibtex: 
     image: ./assets/img/UAV3DCrop.png
-    status: in_progress
+    status: published
 
   - title: "IPM-Bench: A Multi-task Benchmark for Evaluating Large Language Models in Integrated Pest Management"
     authors: <strong>Xuechen Li</strong>, Huixue Zhou, Junxiong Zhou, Lang Qiao, Ce Yang*
