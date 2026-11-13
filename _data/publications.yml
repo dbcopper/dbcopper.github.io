@@ -12,16 +12,16 @@ first_author:
     status: in_progress
 
   - title: "One Domain, Many Tongues: Composing Domain and Language LoRAs for Cross-Lingual Remote-Sensing MLLMs without Paired Data"
-    authors: <strong>Xuechen Li</strong>, Xueliang Li
-    conference_short: COLING
+    authors: <strong>Xuechen Li<sup>&dagger;,*</sup></strong>, Xueliang Li<sup>&dagger;</sup>
+    conference_short: EACL
     impact_factor: "Conference"
-    conference: COLING, 2027.
+    conference: Findings of EACL, 2027.
     pdf: https://arxiv.org/abs/2609.26097
     page: ./projects/modl.html
     code: 
     bibtex: 
     image: ./assets/img/MODL.png
-    status: in_progress
+    status: published
 
   - title: "GeoArbiter: Verifiability-Guided Grounding for Remote-Sensing Multimodal LLMs"
     authors: <strong>Xuechen Li</strong>, Xueliang Li
