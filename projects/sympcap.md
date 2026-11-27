@@ -8,7 +8,8 @@ description: "Symptom-aware crop disease image captioning with parameter-efficie
 
 <div class="project-meta">
   <strong>Xuechen Li</strong>, Lang Qiao, Junxiong Zhou, Ce Yang*<br>
-  Computers and Electronics in Agriculture, 2026.
+  Computers and Electronics in Agriculture, 2026.<br>
+  <small>Proofing</small>
 </div>
 
 <figure class="project-figure">
